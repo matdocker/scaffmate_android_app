@@ -1,0 +1,2405 @@
+<resources>
+    <string name="app_name">ScaffMate</string>
+
+    <string name="search">Search Bar</string>
+    <string name="search_bar_hint">Search Bar Hint</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="about_us"> The people behind ScaffMate are dedicated to meeting the needs of scaffolders around Australia and New Zealand by providing an application that gives the user all the required knowledge needed on a scaffold site at their fingertips.\n
+
+\nOur promise is to keep the content and useability of ScaffMate up to date making sure we are continually meeting the needs of our users.\n
+
+\nWe encourage users to help us in achieving excellence by emailing ScaffMate before leaving any negative feedback so we can improve our application.
+
+
+    </string>
+    <string name="overview2"><b>Overview</b></string>
+
+    <string name="overview">
+        \nScaffMate is a complete scaffolding guide which has been developed in reference with safe work Australia’s online material. This app is a broad overview of all things scaffolding with an emphasis on risk management.\n
+
+\nMaterial set within this application can be used to assist in all stages of scaffolding work. Covering topics such as Planning, Scaffold Duties, Types of Scaffold, Erect and Dismantling of Scaffold and Inspections and Maintenance Procedures. This Scaffolding app is really the complete guide to scaffolding safely and efficiently.\n</string>
+
+    <string name="overview3">In the navigation side menu, you can find the complete scaffolding guide which holds all the content available on this application. Below the Complete Scaffolding Guide are the supervisor, leading hand and scaffolder categories which display topics specific to the roles responsibilities.\n</string>
+
+    <string name="overview4">The ‘about us’ menu, is a brief description of who we (the developer) are and what we aim to achieve with this application.\n</string>
+
+    \<string name="overview5">And Last but not least the ‘Contact us’ menu, is a direct email for you to provide feedback to the developer. We also encourage you to film/photograph your own unique solutions to your scaffolding problems and send them in with a brief description of the problem and the solution (what scaffolding method was used to solve the problem). We will upload them to the app.\n
+
+\nThank you for downloading this app and we look forward to hearing your feedback on how we can make this app better.\n
+
+\nWe encourage users to help us in achieving excellence by emailing ScaffMate before leaving any negative feedback so we can improve our application.</string>
+
+
+
+    <string name="Risk_Manage_one"><b>1. Identify The Hazards</b>\n
+        Find out what could cause harm. The following can help you identify potential hazards:</string>
+    <string name="Risk_Manage_one1"> <b>&#8226; </b>  Observe the workplace to identify areas where scaffolds are used or scaffolding work is
+performed and where there is interaction with vehicles, pedestrians and fixed structures.</string>
+
+        <string name="Risk_Manage_one2"><b>&#8226; </b>  Look at the environment in which the scaffold is to be used including checking ground
+conditions.</string>
+
+    <string name="Risk_Manage_one3"><b>&#8226; </b>  Identify the major functional requirements of the scaffold like the maximum live and
+dead loads and access requirements.</string>
+
+    <string name="Risk_Manage_one4"><b>&#8226; </b>  Inspect the scaffolding before and after use.</string>
+
+    <string name="Risk_Manage_one5"><b>&#8226; </b>  Ask your workers about any problems they encounter or anticipate at your workplace
+when constructing or interacting with scaffolds and scaffolding work–consider
+operation, inspection, maintenance, repair, transport and storage requirements.</string>
+
+    <string name="Risk_Manage_one6"><b>&#8226; </b>  Inspect the erected scaffold.</string>
+
+    <string name="Risk_Manage_one7"><b>&#8226; </b>  Review your incident and injury records including near misses.</string>
+
+    <string name="Risk_Manage_two1"><b>2. Assess The Risks</b>\n
+        Assess the risk. In many cases the risks and related control measures will be well known.
+In other cases you may need to carry out a risk assessment to identify the likelihood
+of somebody being harmed by the hazard and how serious the harm could be. A risk
+assessment can help you determine what action you should take to control the risk and
+how urgently the action needs to be taken.</string>
+
+    <string name="Risk_Manage_three1"><b>3. Control The Risks</b>\n
+        Take action to control the risk. The work health and safety laws require a business or
+undertaking do all that is reasonably practicable to eliminate or minimise risks.
+The ways of controlling risks are ranked from the highest level of protection and reliability
+to the lowest. This ranking is known as the hierarchy of risk control. You must work through
+this hierarchy to manage risks.
+The first thing to consider is whether hazards can be completely removed from the
+workplace. For example, risks can be eliminated by carrying out work at ground level
+or on completed floors of a building.
+If it is not reasonably practicable to completely eliminate the risk then consider the following
+options in the order they appear below to minimise risks, so far as is reasonably practicable:</string>
+
+    <string name="Risk_Manage_three2"><b>&#8226;  </b> substitute the hazard for something safer e.g. using mechanical aids like cranes, hoists,
+pallet jacks or trolleys to move equipment and materials wherever possible instead of
+manually lifting scaffolding</string>
+
+    <string name="Risk_Manage_three3"><b>&#8226;  </b> isolate the hazard from people e.g. install concrete barriers to separate pedestrians
+and powered mobile plant from scaffolds to minimise the risk of collision, and</string>
+
+    <string name="Risk_Manage_three4"><b>&#8226;  </b> use engineering controls e.g. provide toeboards, perimeter containment sheeting
+or overhead protective structures to prevent objects falling hitting workers or other
+people below the work area.</string>
+
+    <string name="Risk_Manage_three5">If after implementing the above control measures a risk still remains, consider the
+following controls in the order below to minimise the remaining risk, so far as is reasonably
+practicable:</string>
+
+     <string name="Risk_Manage_three6"><b>&#8226;  </b> use administrative controls e.g. storing scaffolding as close as practical to the work area
+to minimise the distance over which loads are manually moved, and</string>
+
+     <string name="Risk_Manage_three7"><b>&#8226;  </b> use personal protective equipment (PPE) e.g. hard hats, protective hand and footwear
+and high visibility vests.</string>
+
+     <string name="Risk_Manage_three8">A combination of the controls set out above may be used if a single control is not enough
+to minimise the risks. You need to consider all possible control measures and make a decision about which
+are reasonably practicable for your workplace. Deciding what is reasonably practicable
+includes the availability and suitability of control measures, with a preference for using
+substitution, isolation or engineering controls to minimise risks before using administrative
+controls or PPE. Cost may also be relevant, but you can only consider this after all other
+factors have been taken into account.</string>
+
+    <string name="Risk_Manage_four1"><b>4. Review Controls</b>\n
+        Check your control measures regularly to ensure they are working as planned. Control
+measures need to be regularly reviewed to make sure they remain effective, taking into
+consideration any changes, the nature and duration of work and that the system is working
+as planned.\n
+    \n© Commonwealth of Australia 2014.</string>
+    <string name="Duty_Holder_one1">A person conducting a business or undertaking has the primary
+duty to ensure, so far as is reasonably practicable, workers and
+other people are not exposed to health and safety risks arising
+from the business or undertaking.
+This duty requires the person to manage risks by eliminating health
+and safety risks so far as is reasonably practicable, and if it is not
+reasonably practicable to eliminate the risks, by minimising those
+risks so far as is reasonably practicable. It also includes ensuring
+so far as is reasonably practicable the:</string>
+
+    <string name="Duty_Holder_one2"><b>&#8226;  </b> provision and maintenance of safe scaffolding and scaffolds</string>
+
+    <string name="Duty_Holder_one3"><b>&#8226;  </b> safe erection, alteration, dismantling and use of scaffolds, and</string>
+
+    <string name="Duty_Holder_one4"><b>&#8226;  </b> safe use, handling, storage and transport of scaffolding.</string>
+
+    <string name="Duty_Holder_one5">The WHS Regulations include specific duties for a person
+    conducting a business or undertaking with management or control
+    of scaffolding plant, powered mobile plant and plant that lifts or
+    suspends loads.</string>
+
+    <string name="Duty_Holder_two">Designers, manufacturers, importers and suppliers of scaffolding
+    or scaffolds must ensure, so far as is reasonably practicable, the
+    plant or structure they design, manufacture, import or supply
+    is without risks to health and safety. This duty includes carrying
+    out analysis, testing or an examination and providing specific
+    information about the plant. Information must, so far as is
+    reasonably practicable, be passed on from the designer through
+    to the manufacturer and supplier to the end user.</string>
+
+    <string name="Duty_Holder_three">People installing, constructing or commissioning scaffolding
+or scaffolds must ensure, so far as is reasonably practicable, all
+workplace activity relating to the plant or structure including its
+decommissioning or dismantling is without risks to health or safety.</string>
+
+     <string name="Duty_Holder_three1">In this Guide the scaffolding contractor is the person responsible for
+installing, constructing and commissioning scaffolds.</string>
+
+     <string name="Duty_Holder_four">Officers, such as company directors, have a duty to exercise due
+diligence to ensure the business or undertaking complies with the
+WHS Act and Regulations. This includes taking reasonable steps
+to ensure the business or undertaking has and uses appropriate
+resources and processes to eliminate or minimise risks from plant.</string>
+
+     <string name="Duty_Holder_five">Workers and other people at the workplace must take reasonable
+care for their own health and safety, co-operate with reasonable
+policies, procedures and instructions and not adversely affect other
+people’s health and safety.\n
+
+     \n© Commonwealth of Australia 2014.</string>
+
+    <string name="Who_is_Involved1"><b>Who is Involved</b>\n
+        \nYou must consult your workers and their health and safety representatives (if any) when
+deciding how to manage the risks of scaffolds and scaffolding work.\n
+
+        \n If there is more than one business or undertaking involved at your workplace you must
+consult them to find out who is doing what and work together so risks are eliminated or
+minimised, so far as is reasonably practicable. \n
+
+       \n This may involve discussing workplace-specific requirements including the type of scaffold
+to be erected, the scaffolding to be used and what training is required for workers
+particularly if a scaffolding high risk work licence is not required.\n
+
+    \n© Commonwealth of Australia 2014.</string>
+
+
+    <string name="Comp_Lic1">A person who erects, alters or dismantles any scaffold must be competent to do the
+work safely. \n
+\n A person undertaking scaffolding work must hold the relevant class of scaffolding high risk
+work licence as required by the WHS Regulations. The scaffolding high risk work licence
+classes are: \n
+
+\n<b>Basic scaffolding licence—required for scaffolding work involving:</b> \n
+<b>&#8226;  </b> modular or prefabricated scaffolds \n
+<b>&#8226;  </b> cantilevered materials hoists with a maximum working load of 500 kilograms \n
+        <b>&#8226;  </b> ropes \n
+        <b>&#8226;  </b> gin wheels \n
+<b>&#8226;  </b> fall arrest systems including safety nets and static lines, and \n
+<b>&#8226;  </b> bracket scaffolds (tank and formwork). \n
+ \n<b>Intermediate scaffolding licence—required for scaffolding work involving:</b> \n
+ <b>&#8226;  </b> cantilevered crane loading platforms \n
+ <b>&#8226;  </b> cantilevered scaffolds \n
+ <b>&#8226;  </b> spur scaffolds \n
+ <b>&#8226;  </b> barrow ramps and sloping platforms \n
+ <b>&#8226;  </b> scaffolding associated with perimeter safety screens and shutters \n
+ <b>&#8226;  </b> mast climbing work platforms, and \n
+ <b>&#8226;  </b> tube and coupler scaffolds including tube and coupler covered ways and gantries. \n
+ \n<b>Advanced scaffolding licence—required for scaffolding work involving:</b> \n
+ <b>&#8226;  </b> cantilevered hoists \n
+ <b>&#8226;  </b> hung scaffolds including scaffolds hung from tubes, wire ropes or chains, and \n
+ <b>&#8226;  </b> suspended scaffolds. \n
+\n Where a person undertakes construction work they must have successfully completed
+general construction induction training. \n
+\n A person who erects, alters or dismantles a scaffold where there is a risk of a person or
+object falling four metres or less from the platform or structure does not require a high
+risk work licence. This sort of work may involve tasks like erecting a small frame scaffold to
+repair the eaves of a house or to paint a ceiling. These types of scaffolds are not generally
+used to provide a work platform at a height in excess of one storey or for use by many
+workers at once.\n
+    \n© Commonwealth of Australia 2014.</string>
+
+    <string name="b4_start_scaff_work1"><b>Choosing The Scaffold</b>\n
+        A primary objective of scaffold planning and design is to prevent scaffold collapse before,
+during and after placement of the scaffold. The collapse of a scaffold can cause death or
+significant injury to workers or passers-by and damage to structures. \n
+
+    \nManaging the risks associated with scaffolds and scaffolding work begins when you first
+start making decisions about how scaffolds are going to be used at a workplace and what
+type of scaffold will be best and safest for the job.</string>
+
+     <string name="b4_start_scaff_work2"><b>Designing The Scaffold</b>\n
+         The first step in controlling the identified risks should be at the design stage where the
+focus is on eliminating risks through good design of:\n
+\n<b>&#8226;  </b>scaffolding—the Act classifies these individual components as “plant”\n
+\n<b>&#8226;  </b>the scaffold—the Act classifies this as a “structure” that is covered by both Parts 5 and
+6 of the WHS Regulations, and\n
+\n<b>&#8226;  </b>work systems and processes for the safe erection, alteration and dismantling of the scaffold.
+     </string>
+
+    <string name="b4_start_scaff_work3"><b>The Scaffolding Plant</b>\n
+        Scaffolding designers have a duty to design scaffolding that is safe to manufacture,
+assemble and use for the purpose it was designed for. They design the scaffolding system.
+The scaffolding may be purchased, hired in or supplied, for example by a scaffolding
+contractor.</string>
+
+     <string name="b4_start_scaff_work4"><b>The Scaffold Structure</b>\n
+
+         The scaffold designer will be responsible for selecting the appropriate scaffolding and
+preparing a scaffold design for the job. They design the scaffold installation.
+The scaffold designer should consider:\n
+\n<b>&#8226;  </b>the intended use of the scaffold\n
+\n<b>&#8226;  </b>hazards and risks for people who erect, dismantle, use or are near the scaffold\n
+\n<b>&#8226;  </b>the foundations including ground conditions\n
+\n<b>&#8226;  </b>the load bearing capacity of the surface where the scaffold is to be erected or the
+suspension systems for hung or suspended scaffolds\n
+\n<b>&#8226;  </b>dead loads e.g. resulting from the size and weight of the scaffold\n
+\n<b>&#8226;  </b>live loads e.g. workers, plant and material on the scaffold\n
+\n<b>&#8226;  </b>environmental loads e.g. wind loads\n
+\n<b>&#8226;  </b>bracing, tying and anchors—where anchors will be placed on the supporting structure
+and types of anchors to be used\n
+\n<b>&#8226;  </b>supporting structures\n
+\n<b>&#8226;  </b>edge protection\n
+\n<b>&#8226;  </b>protection against falls and falling objects\n
+\n<b>&#8226;  </b>containment sheeting, and\n
+\n<b>&#8226;  </b>safe entry and exit.\n
+
+\nWhere necessary, improved scaffold stability may be achieved by:\n
+
+\n<b>&#8226;  </b>tying the scaffold to a supporting structure\n
+\n<b>&#8226;  </b>guying to a supporting structure\n
+\n<b>&#8226;  </b>increasing the dead load by securely attaching counterweights near the base, and\n
+\n<b>&#8226;  </b>adding bays to increase the base dimension.\n
+
+\nScaffolds should be designed by a competent person, for example a person holding a
+relevant scaffolding high risk work licence.
+     </string>
+
+    <string name="b4_start_scaff_work5"><b>The System of Work</b>\n
+        Systems of work should be clear but flexible to meet changing circumstances as the work
+progresses. The system of work should provide for the assessment and control of any new
+risks arising from proposed changes to the work before they are implemented.\n
+
+\nA documented safe system of work is an administrative control. For scaffolding work this
+could include consideration of:\n
+
+\n<b>&#8226;  </b>worker competency and licensing requirements\n
+\n<b>&#8226;  </b>consultation and coordination of the work with others\n
+\n<b>&#8226;  </b>access and exit\n
+\n<b>&#8226;  </b>exclusion zones\n
+\n<b>&#8226;  </b>permit-to-work systems\n
+\n<b>&#8226;  </b>fall arrest systems\n
+\n<b>&#8226;  </b>inspection and maintenance\n
+\n<b>&#8226;  </b>emergency arrangements, and\n
+\n<b>&#8226;  </b>changes to the work arrangements.\n
+
+        \n© Commonwealth of Australia 2014.
+    </string>
+
+     <string name="document1"><b>Competancy and Licensing</b>\n
+         A range of documentation may be required depending on the scaffolding and scaffold.
+For example, prefabricated scaffolding requires plant design registration. The construction
+of a scaffold where a person can fall more than two metres will generally require a Safe
+Work Method Statement (SWMS) for construction work.\n
+
+     \n<b>Designer’s Safety Report for Construction Work</b>\n
+         Most erecting and dismantling of a scaffold is construction work as it involves the
+construction of a structure or is undertaken at a construction workplace.\n
+
+\nA designer must prepare a safety report for a specific or unusual scaffold designs but not
+for common scaffold designs where the risks are already known. For example, a design
+specifying an unusual base structure that has to be erected to support the scaffold may
+introduce unique hazards and risk controls.\n
+
+\nThe person commissioning the construction work must consult with the designer of the
+whole or any part of the structure about eliminating and controlling risks. The general duty
+to provide information under the WHS Act may be met through the designer’s safety report
+prepared under Chapter 6 of the WHS Regulations for construction work.\n
+
+\nA designer’s written safety report may include proprietary documentation setting out
+how to use the scaffolding or scaffolding system to safely erect a scaffold. Where there is a
+principal contractor for a construction project, the person who commissioned the scaffold
+design must give a copy of the relevant designer’s safety report to the principal contractor.\n
+
+    \n<b>Safe Work Method Statement for Construction</b>\n
+         Erecting a scaffold or work on a scaffold may involve activities defined as high risk
+construction work under the WHS Regulations.\n
+
+\nHigh risk construction work includes any construction work where there is a risk of
+a person falling more than two metres. Scaffolding work is defined with a four metre
+threshold for licensing purposes. This means in some cases a high risk work licence may not
+be required to erect a scaffold—because it is less than four metres—but there
+may still be need for a SWMS because it is more than two metres.\n
+
+\nHigh risk construction work also includes work which:\n
+
+\n<b>&#8226;  </b>involves structural alterations or repairs that require temporary support to
+prevent collapse\n
+\n<b>&#8226;  </b>is carried out on or near energised electrical installations or services, and\n
+\n<b>&#8226;  </b>is carried out in an area at a workplace in which there is movement of powered
+mobile plant.\n
+
+         \nA SWMS must be prepared for high risk construction work before the work starts.
+The SWMS must:\n
+
+\n<b>&#8226;  </b>identify the type of high risk construction work being done\n
+\n<b>&#8226;  </b>specify the health and safety hazards and risks arising from the work\n
+\n<b>&#8226;  </b>describe how the risks will be controlled, and\n
+\n<b>&#8226;  </b>describe how the control measures are to be implemented, monitored and reviewed.\n
+
+\nThe SWMS must be developed in consultation with workers and their representatives
+who are carrying out the high risk construction work.\n
+
+
+    \n<b>Scaffolding Plan</b>\n
+        Where required, a SWMS will set out the work method to safely erect, use and dismantle
+a scaffold. Where a SWMS is not required a scaffolding plan will help identify ways to
+protect people who are:\n
+
+\n<b>&#8226;  </b>erecting, using, maintaining, altering and dismantling the scaffold, and\n
+\n<b>&#8226;  </b>near the scaffold or scaffolding work e.g. other workers and members of the public.\n
+
+         \nFor more complex scaffolds a scaffolding plan should be prepared by a competent person.
+In preparing a scaffolding plan the person should consult with a range of other people
+relevant to the work and workplace, for example:\n
+
+\n<b>&#8226;  </b>the scaffold designer e.g. to discuss the design loads and the capability of the structure
+to support extra loadings\n
+\n<b>&#8226;  </b>the scaffolding contractor or builder—this may be the person conducting a business or
+undertaking or a principal contractor—e.g. to assess where underground drains or pits
+and underground services are located. The work should be planned to avoid excavating
+service trenches under, through or adjacent to scaffolds\n
+\n<b>&#8226;  </b>workers, work health and safety committees and health and safety representatives
+regarding erecting, maintaining, altering and dismantling the scaffold\n
+\n<b>&#8226;  </b>other competent people familiar with similar structures e.g. an engineer or a person
+holding an intermediate or advanced scaffolding high risk work licence, and\n
+\n<b>&#8226;  </b>the electricity supply authority if the scaffold is being erected near overhead electric lines.\n
+
+        \nThe scaffolding plan should include a site layout plan and detail the elevations and sections
+of the scaffold. It should be kept at the workplace if reasonably practicable, or be readily
+accessible near the scaffold should it be required. The scaffolding plan should address:\n
+
+        \n<b>&#8226;  </b>basis of design\n
+\n<b>&#8226;  </b>type of scaffold\n
+\n<b>&#8226;  </b>foundations including ground conditions\n
+\n<b>&#8226;  </b>the weight bearing capacity of the surface where the scaffold is to be erected\n
+\n<b>&#8226;  </b>dead loads e.g. resulting from the size and weight of the scaffold\n
+\n<b>&#8226;  </b>live and environmental loads e.g. wind loads\n
+\n<b>&#8226;  </b>containment sheeting\n
+\n<b>&#8226;  </b>supporting structures\n
+\n<b>&#8226;  </b>entry and exit\n
+        \n<b>&#8226;  </b>tying and anchors—where anchors will be placed on the supporting structure and types
+of anchors to be used\n
+\n<b>&#8226;  </b>bracing, and\n
+\n<b>&#8226;  </b>edge protection.\n
+
+    \n<b>WHS Management Plan</b>\n
+         Where the cost of the construction work is $250 000 or more a principal contractor for
+a construction project must:\n
+
+\n<b>&#8226;  </b>take all reasonable steps to obtain a copy of the SWMS relating to the work from each
+person conducting a business or undertaking carrying out the high risk construction
+work before the work starts, and\n
+\n<b>&#8226;  </b>prepare a written WHS management plan for the workplace before work on the
+construction project starts.\n
+
+         \nA WHS management plan must include:\n
+
+\n<b>&#8226;  </b>a list of people who have health and safety responsibilities, and\n
+\n<b>&#8226;  </b>arrangements for consulting workers, managing incidents that occur and any site
+specific health and safety rules.\n
+
+   \n<b>Plant Design Registration</b>\n
+        Prefabricated scaffolding is defined as an integrated system of prefabricated components
+manufactured in such a way that the geometry of assembled scaffolds is pre-determined.
+Prefabricated scaffolding can include modular, tower, cantilever, hung and suspended
+(swing-stage) scaffolds.\n
+
+\nPrefabricated scaffolding must be design registered as required under Part 1 of Schedule 5
+of the WHS Regulations.\n
+
+\nThe person with management or control of the prefabricated scaffolding must ensure
+the design registration number is kept where it is readily accessible. If you are hiring
+prefabricated scaffolding, the supplier must provide the design registration number, usually
+on the supply docket or agreement.\n
+
+         \n<b>Emergency Plan</b>\n
+        An emergency plan must be prepared and maintained so it remains effective for the
+workplace. The emergency plan should provide for emergency response, evacuation
+procedures, medical treatment and assistance, and communication with emergency service
+organisations and others at the workplace. For example, emergency contact numbers
+should be displayed where they can be easily seen.\n
+
+\nWorkers must be provided with information and training on the emergency procedures for
+the workplace and the procedures must be tested.\n
+
+\nResponses to an emergency should be coordinated. The scaffolding contractor should
+consult with the principal contractor who prepares the broader workplace emergency plan,
+so unexpected incidents, for example scaffold collapse or people falling from height are
+included in the broader emergency plan.\n
+
+\nEmergency arrangements for evacuating an injured worker from, for example a multilevel
+perimeter screened scaffold should consider how to safely remove an immobilised or
+unconscious person. This may include creating emergency access points through screens
+and decks.\n
+
+     \n© Commonwealth of Australia 2014.</string>
+
+<string name="com_haz1">\n<b>Adjacent Building and Structures</b>\n
+    \nNo part of the scaffolding work should adversely affect the structural integrity of other
+buildings. You should ensure risks are controlled to prevent injury to people or damage
+to adjacent buildings or structures from the:\n
+
+    \n<b>&#8226;  </b>collapse of the scaffold onto an adjacent building or structure, and\n
+    \n<b>&#8226;  </b>collapse of an adjacent building or structure, or a part of a building or structure due
+    to scaffolding work or related activities.\n
+
+    \n© Commonwealth of Australia 2014.
+
+</string>
+
+    <string name="com_haz2">\n<b>Electric Power Lines</b>\n
+        Electric lines whether overhead or underground can be a significant hazard. Construction
+work carried out on or near energised electrical installations or services is high risk
+construction work and a SWMS must be prepared before this work starts.\n
+
+        \nThis Information Sheet provides advice on managing the risks of erecting, dismantling and using fixed scaffolding near overhead
+electric lines and associated electrical equipment with an operating voltage up to and including 33,000 volts.\n
+
+        \nWhere the operating voltage of the overhead electric lines is above 33,000 volts you should
+consult the Electricity Supply Authority and comply with all special conditions imposed
+by them.\n
+
+        \n<b>What are the risks?</b>\n
+
+\nContact with energised overhead electric
+lines by erecting, dismantling and using
+fixed scaffolding can cause death, electric
+shock or other injury to plant operators
+and workers. This can be caused directly or
+indirectly by electricity—a close approach
+to line conductors may allow a ‘flashover’ to
+occur. The risk of flashover increases as the
+line voltage increases.\n
+
+        \n<b>What do I need to do?</b>\n
+
+\nYou must manage the risks associated with
+scaffolding work near energised overhead
+electric lines and associated electrical
+equipment by:
+\n<b>&#8226;  </b> identifying potential hazards
+\n<b>&#8226;  </b> consulting workers and asset owners e.g.
+the Electricity Supply Authority or the
+person with management or control of
+the electric line or premises, and
+\n<b>&#8226;  </b> deciding what work zones and approach
+distances are required for safe operations.\n
+
+        \n<b>When assessing the risks consider:</b>\n
+
+\n<b>&#8226;  </b> the location, height, arrangement and
+visibility of overhead electric lines and
+supporting structures e.g. poles, towers
+and stay wires
+\n<b>&#8226;  </b> the voltage of electric lines and exposed
+energised parts and whether they are
+insulated or bare
+\n<b>&#8226;  </b> possible sway or sag of the electric lines
+\n<b>&#8226;  </b> the scaffold’s dimensions and operating
+characteristics including inherent stability
+\n<b>&#8226;  </b> conductivity if the scaffolds are earthed
+\n<b>&#8226;  </b> the minimum clearance distance from the
+closest part of the scaffold or plant being
+used to the electric lines
+\n<b>&#8226;  </b> erecting and dismantling scaffolding
+\n<b>&#8226;  </b> the type of work activities required and
+the frequency of work tasks
+\n<b>&#8226;  </b> qualifications, competency, skill and
+experience of people doing the work, and
+\n<b>&#8226;  </b> safe work practices and procedures e.g.
+a safety observer and ‘permit to work’.\n
+
+        \n<b>Approach distances</b>\n
+\nAS/NZS 4576:1995: Guidelines for scaffolding
+sets a 4 metre approach distance for metallic
+scaffolding used near overhead electric lines.\n
+
+\nWhen planning scaffolding work you should
+use 4 metres initially and then consider other
+factors that may require a greater approach
+distance including:
+\n<b>&#8226;  </b> the proximity of overhead electric lines
+\n<b>&#8226;  </b> the proximity and operating radius of
+vehicles, cranes and other moving plant
+\n<b>&#8226;  </b> environmental conditions e.g. storm
+activity, wind strength and direction,
+heavy rain, ice, hail and lightning, and
+\n<b>&#8226;  </b> entry and exit for workers, materials
+and plant.\n
+
+\nThe 4 metre or greater approach distance
+applies in any direction where metallic
+scaffold is erected, used or dismantled near
+overhead electric lines.\n
+
+\nIf there is a risk the 4 metre approach (see
+Figure 1) distance cannot be maintained
+you should contact the Electricity Supply
+Authority to determine a safe system of
+work for the erection, use and dismantling
+of the scaffolding.\n
+
+        \n© Commonwealth of Australia 2014.
+
+</string>
+
+    <string name="com_haz3">\nElectric lines should always be treated as
+energised unless you have:\n
+
+
+\n<b>&#8226;  </b> an access authority confirming the electric
+lines have been de-energised, or
+\n<b>&#8226;  </b> another written document from the
+Electricity Supply Authority which allows
+people to work in the No Go Zone.\n
+
+\nThe presence, location, type and operating
+voltage of all overhead electric lines should be
+verified by a competent person, for example
+an electrical engineer.\n
+
+        \n<b>How do I control the risks?</b>\n
+
+\nThe best way to eliminate the hazard is by
+preventing people, plant, equipment and
+materials from coming close enough to
+energised overhead electric lines for direct
+contact or ‘flashover’ to occur. Consider:\n
+
+\n<b>&#8226;  </b> de-energising the electric line\n
+\n<b>&#8226;  </b> isolating and earthing the line for the
+duration of the work\n
+\n<b>&#8226;  </b> re-routing the electric line away from
+the scaffolding after consultation and
+agreement of the Electricity Supply
+Authority, or\n
+\n<b>&#8226;  </b> replacing existing overhead electric lines
+with underground electric cables.\n
+
+\nDe-energising or moving electric lines should
+be arranged with the Electricity Supply
+Authority as soon as possible.\n
+
+\nWhere elimination is not reasonably
+practicable, minimise the risks by substituting
+the hazard or work practice with something
+safer, for example by:\n
+
+        \n<b>&#8226;  </b> using alternative plant that cannot enter
+an unsafe zone, or\n
+\n<b>&#8226;  </b> using non-conductive tools.\n
+
+\nConsider isolating the hazard from people by
+erecting a physical barrier on the scaffold to
+prevent a person, anything attached to the
+person or anything held by the person from
+entering the specified approach distance or:\n
+
+\nUse engineering controls like:\n
+
+\n<b>&#8226;  </b> substituting the scaffold with an elevated
+work platform, or\n
+\n<b>&#8226;  </b> using an insulated fibreglass handle on
+a paint roller instead of a conductive
+aluminium extension handle when
+standing on scaffolding.\n
+
+\nIf a risk still remains use administrative
+controls like:\n
+
+\n<b>&#8226;  </b> a safety observer to warn people before
+they enter the 4 metre approach distance\n
+\n<b>&#8226;  </b> arranging for the Electricity Supply
+Authority to identify exposed energised
+low voltage conductors, up to and
+including 1000 volts and fitting them with
+approved visual indicators\n
+\n<b>&#8226;  </b> making hazards more visible by using
+approved visual indicators e.g. tiger tails.\n
+
+\nIn this situation:\n
+
+\n<b>&#8226;  </b> tiger tails should be installed for the
+full length of the scaffolding plus a
+minimum distance of 5 metres beyond
+each end of the scaffolding\n
+
+\n<b>&#8226;  </b> a competent person should visually
+inspect the tiger tails each day before
+starting scaffolding operations, and\n
+\n<b>&#8226;  </b> if the tiger tails have moved or have
+been damaged, the Electricity Supply
+Authority should be contacted so
+they are replaced or relocated in the
+correct position.\n
+
+\nConsultation with the Electricity Supply
+Authority will confirm the owner of the
+electric line and costs associated with the
+installation and application of tiger tails.\n
+
+\nNote: Tiger tails do not provide protection
+against mechanical interference or electrical
+hazards. Using tiger tails does not allow
+workers to enter the 4 metre approach
+distance.\n
+
+\nAlso consider the use of personal protective
+equipment (PPE) including:\n
+
+\n<b>&#8226;  </b> electrically tested insulating gloves, rubber
+soled boots and safety helmets\n
+        \n<b>&#8226;  </b> rubber insulating mats or on an
+equipotential conductive mat for workers
+to stand on, and\n
+\n<b>&#8226;  </b> dry clothes especially in wet or humid
+conditions.\n
+
+\nA combination of the above controls can
+be used if a single control is not enough
+to minimise the risks.\n
+
+\n<b>Extra control measures
+for electrical wires passing
+through a scaffold</b>\n
+
+\nWhere low voltage electrical wires or equipment
+pass through a scaffold they should be:\n
+
+\n<b>&#8226;  </b> de-energised for the duration of the work,
+or\n
+\n<b>&#8226;  </b> fully enclosed to meet the Electricity Supply
+Authority’s requirements using a non-conductive material
+e.g. moisture resistant flooring grade
+particleboard, dry timber, dry plywood or
+similar material or plastic piping approved
+by the Electricity Supply Authority.\n
+
+        \n<b>Erected scaffolding using
+a hoarding and enclosure
+for reduced safety clearances</b>\n
+
+\nA hoarding is containment sheeting fixed to the
+external face of a scaffold to form a physical
+barrier between workers and overhead electric
+lines and associated electrical equipment.\n
+
+\nFigure 4 shows the horizontal safety distances
+(A) and vertical mechanical clearances (B) from
+electrical conductors required by Electricity
+Supply Authorities.\n
+
+\nYou should check the clearance distances
+before erecting any scaffolding near overhead
+electric lines. An electrical engineer can provide
+the safety clearance distances used to design
+the scaffolding and control the risks. Clearance
+distances must be maintained.\n
+
+\nThe following installation conditions apply:\n
+
+\n<b>&#8226;  </b> gaps between fitted sheets of plywood do
+not exceed 3 mm\n
+\n<b>&#8226;  </b> no exposed cut or drilled holes in the sheets
+of plywood\n
+\n<b>&#8226;  </b> the scaffolder uses non-conductive means
+to attach the plywood to the scaffold and
+ensures the arrangement can withstand the
+wind load, and\n
+        \n<b>&#8226;  </b> signs should be attached to the safe side
+of the hoarding warning of the electrical
+hazard and that the hoarding must not
+be removed.\n
+
+\nEnsure a competent person visually inspects
+the hoarding and the enclosure daily to
+ensure they are in a satisfactory condition
+and remain impenetrable.\n
+
+\n<b>Safe work method statements
+(SWMS)</b>\n
+
+\nA SWMS is required for energised electrical
+work and high risk construction work
+carried out on or near energised electrical
+installations or services. A written SWMS
+should be based on a risk assessment.
+The SWMS and risk assessment should be
+available to workers on site for the duration
+of the work.\n
+
+        \n© Commonwealth of Australia 2014.
+
+</string>
+
+     <string name="com_haz4"><b>Entry and Exits</b>\n
+         Safe entry and exit is required for workers when erecting, using and dismantling a scaffold.
+Common means of entry and exit include:\n
+
+\n<b>&#8226;  </b> temporary stairs or ladder access systems installed at the start of erection and
+progressed with the scaffold\n
+\n<b>&#8226;  </b> permanently installed platforms or ramps e.g. part of an adjacent building\n
+\n<b>&#8226;  </b> personnel hoists—non-mechanical forms of exit e.g. a ladder or stair tower should be
+provided in case of emergency, and\n
+\n<b>&#8226;  </b> the existing floor level of a building if entry from there is safe.\n
+
+\nStairs should be secured to the scaffold bay. If stairs cannot be self-secured to the
+scaffold they should be lashed. If not secured the designer or supplier should provide
+documentation showing the maximum amount of clearance allowed between the transom
+and the top and bottom of the stair module. The gap between the end of a stair module
+and a transom should be as small as possible. Large gaps can lead to stairs dislodging
+and falling when a load is placed onto it.\n
+
+     \n© Commonwealth of Australia 2014.
+     </string>
+
+ <string name="com_haz5"><b>Falls</b>\n
+     A risk to health and safety associated with a fall by a person from one level to another that
+is reasonably likely to cause injury to the person or any other person must be managed.
+Hazards that may increase the risk of falls include:\n
+
+\n<b>&#8226;  </b> poor environmental conditions like:\n
+\n<b>(a)  </b> strong winds that may cause workers to lose balance
+\n<b>(b)  </b> rain causing slippery work surfaces
+\n<b>(c)  </b> glare emitted from work surfaces or poor lighting affecting visibility\n
+
+\n<b>&#8226;  </b> materials, equipment or protruding objects below or in adjoining work areas like:\n
+\n<b>(a)  </b> pallets of construction materials
+\n<b>(b)  </b> vertical reinforcing steel
+\n<b>(c)  </b> rubbish skips
+\n<b>(d)  </b> exposed starter bars
+\n<b>(e)  </b> large tools\n
+
+\n<b>&#8226;  </b> void areas not identified or protected e.g. ladder access voids\n
+\n<b>&#8226;  </b> incomplete scaffolds or loose scaffolding in areas where work is being done or is likely
+to be done, and\n
+\n<b>&#8226;  </b> inadequate training, instruction and supervision of scaffold workers.\n
+
+\nPassive engineering controls like handrails and edge protection can minimise the risk of
+a fall during work at height. Catch platforms can be used to minimise the distance a person
+could fall during work at height and also to catch falling objects.\n
+
+     \nFall arrest systems should only be used during the following scaffold activities:\n
+
+\n<b>&#8226;  </b> Erecting or dismantling drop or hung scaffolds where the scaffold is constructed from
+top to bottom—this allows for a clear fall zone in the event of a fall.\n
+\n<b>&#8226;  </b> Fixing and removing trolley tracks on suspension rigs.\n
+\n<b>&#8226;  </b> Erecting or dismantling cantilevered needles and decking between the needles.
+Fall arrest systems could also be used when the first lift of scaffold is erected where
+workers are standing on the deck between the needles.\n
+\n<b>&#8226;  </b> Erecting and dismantling the first lift of a cantilevered scaffold including the first platform.\n
+\n<b>&#8226;  </b> Attaching and removing spurs projecting from the supporting structure.\n
+
+ \n© Commonwealth of Australia 2014.
+ </string>
+
+     <string name="com_haz6"><b>Falling Objects</b>\n
+         Falling object risk control measures include fall arrest platforms, overhead protective
+structures, perimeter containment screens and exclusion zones to eliminate or minimise
+the risk of falling objects.\n
+
+\nPerimeter containment screens can be made of mesh, high quality shade cloth, timber,
+plywood, metal sheeting or other suitable material. Before using perimeter containment
+screening, consider other risks like conductivity of electricity and additional dead and live
+loads. For example, the extra wind loading on the scaffold should be considered when
+selecting a screening material and the framework supporting a screen must be able to
+support loads resulting from the screen.\n
+
+\nPerimeter containment screens should be located inside the standards on working
+platforms or in accordance with the manufacturer’s specifications. Where used, the lining
+should be attached to the inside of the mesh.\n
+
+\nThe scaffold design and its ties fitted with containment sheeting should be approved
+by a competent person, for example an engineer with experience in structural design.\n
+
+     \n© Commonwealth of Australia 2014.</string>
+
+     <string name="com_haz7"><b>Ladders</b>\n
+         Ladders may be used where entry to the working platform is needed by only a few people
+and where tools and equipment can be delivered separately to the working platform, for
+example by materials hoist, crane or a rope and gin wheel. Ladders used for entry to or
+exit from a scaffold should be:\n
+
+\n<b>&#8226;  </b> fixed industrial single ladders—not extensions ladders\n
+\n<b>&#8226;  </b> located within a separate ladder access bay of the scaffold wherever space permits, and\n
+\n<b>&#8226;  </b> set up on a firm, level surface, be securely fixed and not used on scaffold bays to gain
+extra height above the scaffold structure.\n
+
+\nIf the access bay is part of the working platform a trap door should be provided. Ladder
+entry should be far enough away from the working platform where possible to prevent
+people falling through openings. Engineering controls and safe work procedures should
+be implemented so that the trap door remains closed while working from the platform.
+Platforms should also allow correct use of ladders, for example a person passing through
+the trap door should not need to hold it open. Gates should be self-closing and not open
+away from the platform.\n
+
+\nLadders should not be used as a work platform or to gain extra height to carry out work
+from a scaffold.\n
+
+     \n© Commonwealth of Australia 2014.</string>
+
+    <string name="com_haz8"><b>Ground Conditions</b>\n
+        Ground conditions should be stable and those doing the scaffolding work should be
+aware of any factors that may affect ground stability before the scaffold is erected or
+during its use.\n
+
+\nGround conditions should be assessed by a competent person to check the ground is
+stable and able to bear the most adverse combination of dead, live and environmental
+loads that can reasonably be expected during the period the scaffold is to be erected and
+dismantled and while it is in use.\n
+
+\nWater and nearby excavations may lead to ground subsidence and the collapse of a
+scaffold. Any likely watercourse, for example a recently filled trench that has the potential
+to create a wash out under the scaffold base should be diverted away from the scaffold.
+
+    \n© Commonwealth of Australia 2014.</string>
+
+    <string name="com_haz9"><b>Loading</b>\n
+        \nA scaffold should be designed for the most adverse combination of dead and live loads
+that can reasonably be expected during the period the scaffold is in use.\n
+
+\nDead loads relate to the self-weight of the scaffold structure and scaffolding including:\n
+\n<b>&#8226;  </b> working, catch or access platforms\n
+\n<b>&#8226;  </b> stairways, ladders, screens and sheeting\n
+\n<b>&#8226;  </b> platform brackets, suspension ropes, secondary ropes, traversing ropes and tie
+assemblies, and\n
+\n<b>&#8226;  </b> hoists and electrical cables.\n
+
+\nLive loads include the:\n
+
+\n<b>&#8226;  </b> weight of people\n
+\n<b>&#8226;  </b> weight of materials and debris\n
+\n<b>&#8226;  </b> weight of tools and equipment\n
+\n<b>&#8226;  </b> environmental loads e.g. wind, rain, and\n
+\n<b>&#8226;  </b> impact forces.\n
+
+\nThe specifications of the designer, manufacturer or supplier should be followed for the
+maximum loads of the scaffold. The dead and live loads should be calculated during the
+design stage to ensure the supporting structure and the lower standards are capable of
+supporting the loads that will be applied at the workplace.\n
+
+\nIf the scaffold is to be altered at the workplace, consider any new loads that may apply and
+consult the scaffold designer. For example, wind and rain loads may increase if perimeter
+containment, shade cloth or signs are attached to the scaffold. Staggering the joints in
+standards may help control the risk of scaffold collapse from additional environmental loads.\n
+
+\nScaffolds should not be used to support formwork and plant, for example hoist towers and
+concrete pumping equipment unless the scaffold is specifically designed for this purpose.\n
+    \n© Commonwealth of Australia 2014.</string>
+
+
+    <string name="com_haz10"><b>Mixing Scaffold Components From Other Systems</b>\n
+        Scaffolding from different manufacturers or suppliers, while sometimes looking compatible,
+often has different dimensions and tolerances.\n
+
+\nMixing incompatible scaffolding can reduce the structural integrity of a scaffold and could
+lead to the collapse of the scaffold. It can also lead to increased wear on the scaffolding
+and difficulties in disassembly which in turn may increase the risk of musculoskeletal injury
+to workers.\n
+
+    \nThe following controls can be used to prevent or minimise the risk of injury and scaffold
+collapse due to the incorrect mixing of scaffolding:\n
+
+\n<b>&#8226;  </b> Do not mix scaffolding from different manufacturers unless a competent person
+e.g. an engineer has determined that:\n
+\n<b>(a)  </b> the different scaffolding is of compatible size and strength
+\n<b>(b)  </b> the different scaffolding has compatible deflection characteristics
+\n<b>(c)  </b> the different fixing devices are compatible, and
+\n<b>(d)  </b> mixing the different scaffolding does not lessen the strength, stability, rigidity or
+suitability of the designed scaffold.\n
+
+\n<b>&#8226;  </b> Do not mix scaffolding couplers and tubing of different outer diameters and strengths
+unless designed specifically for the task by a competent person or the coupler
+manufacturer has designed the couplers for this purpose. For example, do not mix
+aluminium and steel scaffolding as steel clamps may cause aluminium tubing to be
+crushed and reduce the strength of the tube.\n
+
+\nBeam clamps or flange clamps should be provided with information about safe use
+including tightening torque required. If no information is provided contact the supplier,
+manufacturer or designer of the scaffold.
+
+    \n© Commonwealth of Australia 2014.</string>
+
+    <string name="com_haz11"><b>Powered Mobile Plant and Traffic</b>\n
+        Powered mobile plant and vehicular traffic are hazards which can potentially affect worker
+safety and the safe use and structural integrity of a scaffold.\n
+
+\nControl measures to minimise the risks associated with moving plant and traffic include:\n
+\n<b>&#8226;  </b> re-routing vehicles and mobile plant away from where the scaffold is located
+e.g. by using traffic controllers to redirect traffic\n
+\n<b>&#8226;  </b> using barricades, signs, posts, buffer rails, guards, concrete or timber kerbs to prevent
+mobile plant and traffic from coming into contact with a scaffold, and\n
+\n<b>&#8226;  </b> ensuring the scaffold does not have unnecessary protrusions e.g. over-length transoms,
+putlogs, tie tubes or over-height standards.\n
+
+    \n© Commonwealth of Australia 2014.</string>
+
+    <string name="com_haz12"><b>Supporting Structures</b>\n
+        You should consider the capability of a supporting structure such as a building to bear
+the most adverse combination of loads possible when erecting and using the scaffold.
+Get advice from a competent person before anchoring a scaffold to a building or erecting
+scaffolds on verandas, suspended flooring systems, parapets and awnings.\n
+
+\nPropping of the supporting structure may be required where the supporting structure
+is not capable of bearing the most adverse combination of loads.
+
+    \n© Commonwealth of Australia 2014.</string>
+
+    <string name="com_haz13"><b>Unauthorised Access</b>\n
+        A person with management or control of a scaffold at a workplace must prevent
+unauthorised access to the scaffold while the scaffold is incomplete or unattended.
+This applies to suspended, cantilevered, spur or hung scaffolds, as well as any scaffold
+from which a person or thing could fall more than 4 metres.\n
+
+\nEntry to scaffold areas should be restricted to those carrying out the scaffolding work
+while the scaffold is being erected, altered, repaired or dismantled. Control measures,
+for example barriers and warning signs should be used to prevent unauthorised access
+when the scaffold is left unattended.\n
+
+    \n© Commonwealth of Australia 2014.</string>
+
+    <!--General Design-->
+
+    <string name="design_principles"><b>Design Principles</b>\n
+
+The design of the scaffold should take into account:\n
+\n<b>•</b> the strength, stability and rigidity of the supporting structure
+\n<b>•</b> the intended use and application of the scaffold
+\n<b>•</b> the safety of persons engaged in the erection, alteration and dismantling of the scaffold
+\n<b>•</b> the safety of persons using the scaffold; and
+\n<b>•</b> the safety of persons in the vicinity of the scaffold.\n
+
+    \n© Commonwealth of Australia 2014.</string>
+
+    <string name="foundation1"><b>Foundations</b>\n
+
+Scaffolding foundations must be able to carry and distribute all the weight of the scaffold, including any extra loads,
+        for example, perimeter containment screens, placed on the scaffold.
+Consideration should be given to the following when designing the foundation of the scaffolding.\n
+
+\n<b>Ground Conditions</b>\n
+
+        Water and nearby excavations may lead to soil subsidence and the collapse of scaffold. Any likely watercourse, such as a recently filled trench, which has the potential to create a wash out under the scaffold base, should be diverted away from the scaffold.
+The principal contractor or PCBU should ensure ground conditions are stable and inform scaffold erectors of any factors which may affect ground stability, before the scaffold is erected.\n
+
+
+   </string>
+
+<string name="foundation2">\n<b>Loads</b>\n
+
+Scaffolding needs to be designed for the most adverse combination of dead, live and environmental loads that can reasonably be expected during the period that the scaffold is in use.
+The dead, live and environmental loads will need to be calculated during the design stage to ensure the supporting structure and the lower standards are capable of supporting the loads. The design of such scaffolds and ties must be approved by a competent person or an engineer.
+Follow the specifications of the manufacturer, designer or supplier for the maximum loads of the scaffold.\n
+
+\n<b>Environmental Loads</b>\n
+
+Consider environmental loads, particularly the effects of wind and rain on the scaffold. For example, environmental loads imposed by wind and rain may be heightened if perimeter containment screens,
+        shadecloth or signs are attached to the scaffold. Staggering the joints in standards may help control the risk of scaffold collapse from environmental loads.\n
+
+    \n<b>Dead Loads</b>\n
+
+    Dead loads refer to the self weight of the scaffold structure and components including any working, catch or access platforms, stairways, ladders, screens, sheeting, platform brackets, suspension ropes,
+    secondary ropes, traversing ropes, tie assemblies, scaffolding hoists or electrical cables. Dead loads should be calculated in accordance with AS/NZS 1576.1 Scaffolding – General Requirements.\n
+
+    \n<b>Live Loads</b>\n
+
+    The live load includes:\n
+
+\n<b>•</b> the weight of persons
+\n<b>•</b> the weight of materials and debris
+\n<b>•</b> the weight of tools and equipment; and
+\n<b>•</b> the safety of persons using the scaffold; and
+\n<b>•</b> impact forces.\n
+
+    \nScaffolds should not be used to support formwork and plant, such as hoist towers and concrete pumping equipment,
+    unless the scaffold is specifically designed for this purpose.
+The live loads applied to a working platform should be in accordance with those specified in Table 1.\n
+
+\n© Commonwealth of Australia 2014.
+</string>
+
+    <string name="soleboards1"><b>Supporting Structure</b>\n
+
+   Consider the capability of the supporting structure to bear the most adverse combination of loads possible during the use of the scaffold.
+        Obtain advice from an engineer before erecting scaffolds on verandas, suspended flooring systems, compacted soil, parapets and awnings.\n
+
+\nPropping may be required where the supporting structure is not capable of bearing the most adverse combination of loads.\n
+
+\n<b>Soleboards and baseplates</b>\n
+
+Soleboards and baseplates should evenly distribute
+the load from the scaffold to the supporting
+surface to provide scaffold stability. A
+soleboard distributes the load from a load-bearing
+member to a supporting surface and is intended for
+use underneath baseplates.\n
+
+\nBoth soleboards and baseplates may be required for
+use on less stable surfaces, for example soil, gravel,
+or fill. The size of the soleboard will vary depending
+on the supporting surface. They can be placed under
+a single standard or multiple standards as in Figure
+1. Where necessary a competent person should
+determine the bearing capacity of the ground or
+other supporting structure.\n
+
+\nSoleboards and baseplates should be level.
+Adjustable bases can be used on uneven surfaces
+for modular scaffold systems to give a level base lift.
+No part of the baseplate or adjustable base should
+protrude over the side of the soleboard to ensure
+the loads are carried evenly on the soleboard.\n
+
+\nNeedles and spurs should be considered where
+ground conditions are very unstable.\n
+
+        \n<b>Stability</b>\n
+
+Scaffold stability may be achieved by:\n
+
+\n<b>•</b> tying the scaffold to a supporting structure
+\n<b>•</b> guying to a supporting structure
+\n<b>•</b> increasing the dead load by securely attaching counterweights near the base; and
+\n<b>•</b> adding bays to increase the base dimension.\n
+
+        \n© Commonwealth of Australia 2014.
+    </string>
+
+     <string name="tying1"><b>Tying and Anchoring</b>\n
+
+        Tie methods and spacing should be in accordance with the manufacturer, designer
+or supplier instructions. Consult the scaffold designer, manufacturer, supplier or an
+engineer if it is not practical to position the ties in accordance with the instructions.\n
+
+         \nControl measures for tying scaffold include:\n
+
+\n<b>•</b> Using more ties if:\n
+    \n<b>(a)</b> the scaffold is sheeted or netted due to increased wind loadings
+    \n<b>(b)</b> it is used as a loading platform for materials or equipment, and
+    \n<b>(c)</b> lifting appliances or rubbish chutes are attached.\n
+
+\n<b>•</b> Regularly inspecting scaffold ties to check they are not modified or altered by
+unauthorised people e.g. finishing trades who may loosen, relocate or remove ties
+to gain access to walls and openings.\n
+\n<b>•</b> Not attaching extra loads to the scaffold e.g. signs and perimeter containment screens,
+without first consulting a competent person like the scaffold design engineer or the
+supplier.\n
+\n<b>•</b> Using cast-in anchors or through bolts that pass through a wall in preference to
+expansion or chemical anchors for securing scaffold ties because of possible failure
+due to faulty tensioning or chemical adhesion.\n
+\n<b>•</b> Deformation-controlled anchors, thread cutting anchors and insert type anchors should
+not be used.\n
+\n<b>•</b> Drill-in expansion anchors should be limited to the load (torque) controlled type—the
+working load limit (WLL) should be limited to 65 percent of the ‘first slip load’ stated
+in the information provided by the supplier.\n
+\n<b>•</b> All drill-in expansion anchors should be installed using a torque wrench set to the
+required torque, unless the anchor has an in-built torque indicator. Documented
+verification should be kept on site stating:\n
+    \n<b>(a)</b> the anchor setting torque
+    \n<b>(b)</b> install date, and
+    \n<b>(c)</b> location and name of the competent person installing the anchors.\n
+
+\n<b>•</b> Where chemical anchors are used, all anchors should be tested and proof loaded to the
+working load multiplied by a factor of 1.25.\n
+\n<b>•</b> All insert anchors including expansion and chemical anchors should have a safety factor
+of 3 to 1 on their failure load. If any anchors fail the remaining anchors on the same level
+should be tested.\n
+\n<b>•</b> Ties should not obstruct access along the working and access platforms.\n
+\n<b>•</b> Ties should interconnect with both the inner and outer scaffold standards unless
+otherwise specified by an engineer to increase the rigidity of the scaffold.\n
+\n<b>•</b> Ties from scaffold to structure should be designed to be non-pivoting and fully secured
+to ensure they cannot be loosened.\n
+         \n© Commonwealth of Australia 2014.
+
+</string>
+
+    <string name="working_platform1"><b>Working Platforms</b>\n
+
+   Working platforms, except suspended scaffolds, should have duty classifications and
+dimensions complying with the manufacturer’s information on loadings. Scaffold working
+platforms are generally rated as light, medium or heavy duty:\n
+
+\n<b>• Light Duty</b> – up to 225 kg per platform per bay including a concentrated load of
+120 kg. Platforms should be at least two traditional scaffold planks wide—approximately
+450 mm. Use examples include painting, electrical work, many carpentry tasks and
+other light tasks.\n
+
+\n<b>• Medium Duty</b> – up to 450 kg per platform per bay including a concentrated load of
+150 kg. Platforms should be at least four traditional scaffold planks wide—approximately
+900 mm. Use examples include general trades work like tiling and light steel framing.\n
+
+\n<b>• Heavy Duty</b> – up to 675 kg per platform per bay including a concentrated load of
+200 kg. Platforms should be at least 1000 mm wide. This duty scaffold is needed for
+concrete block laying, bricklaying, concreting, demolition work and most other tasks
+involving heavy loads or heavy impact forces.\n
+
+\n<b>• Special Duty</b> – has a designated allowable load as designed.\n
+
+\nEach scaffold should be designed to carry the required number of working platforms and
+to support the dead and live loads. Where tools or materials are to be used or stored on
+working platforms, an unobstructed access width of at least 450 mm should be maintained.
+Scaffold planks on working platforms should:\n
+
+\n<b>•</b> have a slip-resistant surface\n
+\n<b>•</b> not be cracked or split\n
+\n<b>•</b> be of uniform thickness\n
+\n<b>•</b> be secure—so it cannot be kicked off or susceptible to uplift or displacement during
+normal use\n
+\n<b>•</b> be positioned so no single gap between planks exceeds 10 mm, and\n
+\n<b>•</b> not be lapped on straight runs of modular and tube and coupler scaffolding but may
+be lapped on hanging bracket scaffolds where butting of planks at a pair of brackets
+cannot be achieved.\n
+
+\nLapped scaffold planks may sometimes be used to cover gaps around corners of scaffold.
+These planks should be safely secured. In some circumstances they may not need to be
+secured provided the following are met:\n
+
+\n<b>•</b> timber is lapped over metal planks\n
+\n<b>•</b> planks are 1.2 metres long or greater\n
+\n<b>•</b> plank overlap—past the edge of the plank underneath—is 300 mm or greater, and\n
+\n<b>•</b> standards prevent planks from moving sideways on the scaffold.\n
+
+\nIn these cases wind forces should be considered and if wind is a potential hazard then the
+lapping planks should be secured.
+If using plywood sheets to cover gaps between scaffold bays the plywood sheets should
+be:\n
+
+\n<b>•</b>a minimum of 17 mm thick\n
+\n<b>•</b> only used to cover gaps less than 500 mm wide unless approved by an engineer, and\n
+        \n<b>•</b>secured.\n
+
+\nMetal planks lapped on other metal planks should be secured using fixings, for example
+metal strapping. Tie wire or another system not structurally rated should not be used to
+secure planks on hop-up brackets.\n
+
+        \nMore generally:\n
+
+\n<b>•</b> Planks should be secured.\n
+\n<b>•</b> Each hop-up bracket should be provided with tie bars unless constructed with scaffold
+planks locked into position to stop brackets from spreading apart or causing planks to
+dislodge unless otherwise specified by the scaffold designer.\n
+\n<b>•</b> The overhang of planks which are supported by putlogs should be greater than 150 mm
+but less than 250 mm—otherwise uplift might occur.\n
+\n<b>•</b> Avoid nailing or screwing laminated planks into position unless otherwise specified by
+the manufacturer. Moisture penetrating the planks can cause damage and may not be
+easily detected.\n
+
+        \n© Commonwealth of Australia 2014.
+
+</string>
+
+    <string name="fall_arrest"><b>Fall Arrest Platform</b>\n
+A fall arresting platform can be used as a control measure to arrest a person’s fall during work at height.\n
+
+        \nIf the slope of the surface where work is being done is:\n
+\n<b>(a)</b> not over 26º – then install the platform no more than 1 metre lower than the surface; or\n
+\n<b>(b)</b> over 26º – then install the platform no more than 300 mm lower than the surface.\n
+
+        \nThe fall arresting platform must:\n
+
+        \n<b>(a)</b> be unobstructed and at least 675 mm wide for the length of the platform;\n
+
+        \n<b>(b)</b> be able to withstand the impact of a fall onto it; and\n
+
+        \n<b>(c)</b> have edge protection erected:\n
+
+        \n<b>i.</b>along the outer edge of the length of the platform; and\n
+
+        \n<b>ii.</b> along the edges of each end of the fall arresting platform.\n
+
+    \nIf the internal gap (the gap between the inner edge of the length of the platform and the face of the building or structure immediately beside the platform) exceeds 225 mm,
+        then implement a control measure to control the risk of a fall.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="edge_protection">
+
+        <b>Edge Protection</b>\n
+
+        Edge protection may be used as a control measure to prevent the risk of death or injury from a fall during work at height.\n
+
+        \nObtain written approval from an engineer before installing edge protection on a scaffold system which was not originally designed,
+        supplied or manufactured with edge protection. Approval should include specifications on how to install and maintain edge protection.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="entry_egress">
+
+        <b> Access and Egress</b>\n
+
+        Workers must be provided with safe access to and egress from scaffold during the erection, use and dismantling of scaffolding.
+        Common means of access and egress include:\n
+
+\n<b>•</b> temporary stairs or portable ladder access systems installed at the start of erection, progressed with the scaffold, and used by the scaffolder
+        whenever possible\n
+\n<b>•</b> permanently installed platforms or ramp;\n
+\n<b>•</b> personnel hoists (non-mechanical forms of egress, such as a ladder or stair tower should be provided in case of emergency); and\n
+\n<b>•</b> using the existing floor level of a building, provided such access is safe.
+        Scaffolders should not climb standards externally.\n
+
+        \n<b>Ladders</b>\n
+
+\nThe following are additional safe work practices which should be followed when working on ladders:\n
+
+\n<b>•</b> Ladders may be used where access to the working platform is needed by only a few persons, and where tools and equipment can
+        be delivered separately to the working platform (for example, by materials hoist, crane or a rope and gin wheel).\n
+\n<b>•</b> Ladders should be within a separate ladder access bay of the scaffold, wherever space permits.\n
+\n<b>•</b> If the access bay is part of the working platform, a trap door is to be provided. Strict controls are to be implemented to
+        ensure the trap door remains closed while working from the platform.\n
+\n<b>•</b> Ladders should be set up on a firm, level surface and not used on scaffold bays to gain extra height.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="contain_screen1"><b>Perimeter Containment Screening</b>\n
+
+Perimeter containment screening is used to protect persons from falling objects.
+Perimeter containment screens must be made of mesh, timber, plywood, metal sheeting or other material suitable for the purpose.\n
+
+    </string>
+
+    <string name="contain_screen2"><b>Perimeter Containment Screening</b>\n
+
+    Perimeter containment screens must be located inside the standards on working platforms.\n
+
+    \nThe prescribed lining2 must be attached to the inside of the mesh.
+        The prescribed lining can be attached using non-structural locating product
+        which keeps the lining in place while minimising damage to the lining.\n
+
+    \nThe framework supporting a screen must be able to bear the load of the screen.
+    Each of the following gaps must be not over 25 mm:\n
+    \n<b>(a)</b> the gap, measured horizontally, between screens immediately beside each other\n
+    \n<b>(b)</b> the gap, measured vertically, between a screen and another screen immediately above it; and\n
+    \n<b>(c)</b> the gap, measured vertically and horizontally, between a screen and the framework supporting it.
+Containment sheeting should be installed no higher than the upper most tie, unless certified otherwise by an engineer..\n
+
+        \nWhere work is carried out close to pedestrian or vehicular access,
+        scaffolds that are sheeted down to hoarding level can minimise both the risk to the public and the area lost to public access.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="basic"><b>Basic Scaffolding Licence</b>\n
+        Required for scaffolding work involving:\n
+\n<b>•</b> modular or prefabricated scaffolds\n
+\n<b>•</b> cantilevered materials hoists with a maximum working load of 500 kilograms\n
+\n<b>•</b> ropes\n
+\n<b>•</b> gin wheels\n
+\n<b>•</b> fall arrest systems including safety nets and static lines, and\n
+\n<b>•</b> bracket scaffolds (tank and formwork.\n
+
+        \n<b>Basic Scaffolder Knowledge</b>
+
+        \n<b>•</b> The height above the maximum nut extension above the spindle of an adjustable baseplate should be 150mm.\n
+
+        \n<b>•</b> The maximum extension on an adjustable baseplate is 600mm.\n
+
+        \n<b>•</b> The minimum size of a square baseplate is 150mm x 150mm (or 225cm2).\n
+
+        \n<b>•</b> The minimum outside diameter of a common scaffold tube (to the nearest mm)is 48mm\n
+
+        \n<b>•</b> The minimum wall thickness of a common steel scaffold tube is 4mm\n
+
+        \n<b>•</b> The minimum wall thickness of a common heavy duty aluminium scaffold tube is 4.45mm (or 4.4mm or 4.5mm).\n
+
+        \n<b>•</b> The minimum width of a scaffold plank is 220mm (or 225mm).\n
+
+        \n<b>•</b> The minimum thickness of a hardwood solid timber scaffold plank is 32mm.\n
+
+        \n<b>•</b> The minimum thickness of an oregon solid timber scaffold plank 38mm.\n
+
+        \n<b>•</b> The minimum diameter of fibre rope you would use for a handline is 12mm.\n
+
+        \n<b>•</b> The minimum diameter of fibre rope you would use for a gin wheel is 16mm.\n
+
+        \n<b>•</b> The maximum load you would lift with a gin wheel is 50kg.\n
+
+        \n<b>•</b> The distance you would fix a gin wheel along an unbraced cantilevered scaffold tube would be 600mm.\n
+
+        \n<b>•</b> The maximum load in each bay of a medium duty working platform is 450kg (or 4.4kN).\n
+
+        \n<b>•</b> The maximum load in each bay of a heavy duty working platform is 675kg (or 6.6kN).\n
+
+        \n<b>•</b> The maximum load would you place on a right angle coupler is 630kg (or 630kgf or 6.25kN).\n
+
+        \n<b>•</b> The maximum load would you place an adjustable baseplate is 3030kg (or 30kN, or 3030kgf. 3000kg or 3 t are acceptable approximations).\n
+
+        \n<b>•</b> The maximum allowable load on a chain is One sixth of the breaking load (or breaking strain or breaking force).\n
+
+        \n<b>•</b> The maximum allowable load on a flexible steel wire rope is One sixth of the breaking load (or breaking strain or breaking force) .\n
+
+        \n<b>•</b> When a scaffold is built on soil, you would place a soleboard under the baseplates to distribute the load.\n
+
+        \n<b>•</b> The minimum width of timber you would use as a soleplate is 220mm (or 225mm, or the width of a scaffold plank).\n
+
+        \n<b>•</b> No gaps allowed between the planks of a working platform.\n
+
+        \n<b>•</b> Platform planks can be lapped on the returns of a scaffold.\n
+
+        \n<b>•</b> The minimum width of a light duty working platform is 450mm (or 2 planks).\n
+
+        \n<b>•</b> The minimum width of a medium duty working platform is 900mm (or 4 planks).\n
+
+        \n<b>•</b> The minimum width of a heavy duty working platform is 1000m (or 5 planks).\n
+
+        \n<b>•</b> The minimum width of clear access along a working platform for persons with hand tools only is 450mm (or 2 planks).
+
+        \n<b>•</b> The minimum width of a clear access along a working platform for persons and materials is 675mm (or 3 planks).\n
+
+        \n<b>•</b> Planks with different thicknesses cannot be used to deck out a working platform.\n
+
+        \n<b>•</b> Edge protection is needed when working on platforms more than 2m in height (or when a person can fall more than 2m).\n
+
+        \n<b>•</b> A toeboard must extend 150mm above the working platform.\n
+
+        \n<b>•</b> On a working platform a guardrail should not be fixed less than 900mm and no greater than 1100mm.\n
+
+        \n<b>•</b> The maximum gap allowed between an unprotected platform edge and the working face is less than 225mm.\n
+
+        \n<b>•</b> There are 3 types of ladders that cannot be used to access a scaffold, Domestic grade ladders, Extension ladders and step ladders.\n
+
+        \n<b>•</b> The maximum height allowed between ladder landings is 6m (3 lifts).\n
+
+        \n<b>•</b> The minimum height a access ladder must extend above the landing is 900mm or 1m.\n
+
+        \n<b>•</b> Mobile scaffolds need wheel locks.\n
+
+        \n<b>•</b> Mobile Scaffolds cannot have pneumatic tyres.\n
+
+        \n<b>•</b> Mobile scaffolds require plan bracing to stop the scaffold from twisting when moved.\n
+
+        \n<b>•</b> The minimum platform width when platform brackets (hop ups) are fixed between lifts is 450mm or 2 planks.\n
+
+        \n<b>•</b> The maximum spacing between tank brackets supporting 50mm thick timber is 2m.\n
+
+        \n<b>•</b> The maximum spacing between tank brackets supporting 63mmmm thick timber is 2.5m.\n
+
+        \n<b>•</b> Timbers are to be lashed down to stop the movement of timbers on a platform.\n
+
+        \n<b>•</b> A sheeted scaffold must be check by an engineer.\n
+
+        \n<b>•</b> Never mix  scaffold components.\n
+
+        \n<b>•</b> The maximum horizontal tie spacing used on a modular scaffold is 3 bays or 6 bays with plan bracing.\n
+
+        \n<b>•</b> The maximum vertical tie spacing you would use on a modular scaffold is 4m (2 lifts), or 8m with ledger bracing (4 lifts with ledger bracing).\n
+
+        \n<b>•</b> 3 unbraced panels are allowed between the longitudinally braced panels of the modular scaffold.\n
+
+        \n<b>•</b> A free standing steel framed scaffold can be no higher than three times the least base width.\n
+
+        \n<b>•</b> A tower frame scaffold access ladder should be fitted internally.\n
+
+        \n<b>•</b> The maximum mesh size for a safety net is 100mm.\n
+
+        \n<b>•</b> The maximum gap between the edge of the safety net and the building or structure is 200mm.
+
+        \n<b>•</b> The two maximum fall distances found on the label of the safety net is 1m and 6m.\n
+
+        \n<b>•</b> The minimum and maximum initial sag of a safety net is 1/4 and 1/5 of the shortest side.\n
+
+        \n<b>•</b> The minimum clearance below a safety net is 2/3 of the shortest side lendth or 2m, which ever is greatest.
+
+        \n<b>•</b> The maximum spacing between ties along the border chord of a safety net is 750mm.\n
+
+        \n<b>•</b> The minimum overrun distance between the hoist rope attachment and the head sheave on a cantilevered platform hoist is 1.5m.\n
+
+        \n<b>•</b> The minimum and maximum horizontal clearance between the moving platform of a cantilevered hoist and any landing is 25mm and 100mm.\n
+
+        \n<b>•</b> The minimum height of a landing gate for a cantilevered platform hoist is 1.8m.\n
+
+        \n<b>•</b> The maximum distance you would use between lateral braces of a cantilevered platform hoist is 6m.\n
+
+        \n<b>•</b> The height you would free stand a tower of a cantilevered platform hoist above its last tie is 3m.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="intermediate"><b>Intermediate Scaffolding Licence</b>\n
+
+        Required for scaffolding work involving:\n
+
+\n<b>•</b> cantilevered crane loading platforms\n
+\n<b>•</b> cantilevered scaffolds\n
+\n<b>•</b> spur scaffolds\n
+\n<b>•</b> barrow ramps and sloping platforms\n
+\n<b>•</b> scaffolding associated with perimeter safety screens and shutters\n
+\n<b>•</b> mast climbing work platforms, and\n
+\n<b>•</b> tube and coupler scaffolds including tube and coupler covered ways and gantries.\n
+
+        \n<b>Intermediate Scaffolder Knowledge</b>
+
+        \n<b>•</b> A intermediate scaffolder cannot build a personnel and materials hoist.\n
+
+        \n<b>•</b> A intermediate scaffolder can install a cantilevered crane loading platform.\n
+
+        \n<b>•</b> A intermediate scaffolder is not allowed to build a hung scaffold.\n
+
+        \n<b>•</b> A intermediate scaffolder is allowed to build a barrow ramp.\n
+
+        \n<b>•</b> A intermediate scaffolder can build a single pole tube and coupler scaffold.\n
+
+        \n<b>•</b>  A intermediate scaffolder can build a tube and coupler covered way or gantry.\n
+
+        \n<b>•</b>  A intermediate scaffolder can build a mast climber.\n
+
+        \n<b>•</b>  A intermediate scaffolder can build a cantilevered or spurred scaffold.\n
+
+        \n<b>•</b> The maximum height for a tube and coupler scaffold is 45m.\n
+
+        \n<b>•</b> The maximum bay with for a light duty independent scaffold is 2.4m or 2 planks.\n
+
+        \n<b>•</b> The minimum bay width for a medium duty independent scaffold is 950mm or 4 planks.\n
+
+        \n<b>•</b> The maximum bay width for a heavy duty independent scaffold is 1.275m or 5 plants.\n
+
+        \n<b>•</b> The maximum bay length for a light duty independent scaffold is 3m.\n
+
+        \n<b>•</b> or a medium duty independent scaffold is 2.4m.\n
+
+        \n<b>•</b> The maximum bay length for a single pole scaffold is 1.8m\n
+
+        \n<b>•</b> The maximum lift height for a normal independent scaffold is 2m.\n
+
+        \n<b>•</b> A ledger can be joined 300mm from the standard.\n
+
+        \n<b>•</b> A standard can be joined 300mm from a ledger.\n
+
+        \n<b>•</b>\n19. When putlogs are cantilevered to support extra planks, the minimum bay width is 950mm or 4 planks.\n
+
+        \n<b>•</b> two 250mm planks can be supported by the cantilevered portion of putlogs.\n
+
+        \n<b>•</b> 4 full length working platforms can be carried on a 15m high steel tube scaffold.\n
+
+        \n<b>•</b> 2 full length working platform can be carried on a 45m high steel tube scaffold.\n
+
+        \n<b>•</b> 1 full length working platform can be carried on a 45m high aluminium tube scaffold.\n
+
+        \n<b>•</b> The first level of ties on a single pole scaffold should be on the first lift.\n
+
+        \n<b>•</b> The maximum heigh of a mobile scaffold is 3 times its least base width.\n
+
+        \n<b>•</b> The maximum angle from the vertical for spurs in an access opening is 45 degrees.\n
+
+        \n<b>•</b> The maximum height for puncheons in an access opening is 30m.\n
+
+        \n<b>•</b> Where double standards ore used, the maximum first lift height is 3m.\n
+
+        \n<b>•</b> The maximum angle for sloping putlogs on a cantilevered catch platform is 60 degrees or 30 degress th the horizontal.\n
+
+        \n<b>•</b> The maximum spacing between intermediate sloping putlogs on a cantilevered catch platform is 600mm.\n
+
+        \n<b>•</b> The maximum width of a cantilevered catch platform is 1.125m or 5 planks.\n
+
+        \n<b>•</b> The first lift on a mobile scaffold is as close to the castors as possible.\n
+
+        \n<b>•</b> The maximum allowable slope of a working platform is 7 degreses or 1 in 8.\n
+
+        \n<b>•</b> The cleats on a platform of a barrow ramp should be fixed 450mm apart.\n
+
+        \n<b>•</b> The size of the gap you would leave for a wheel of a barrow in a barrow ramp cleat is 100mm\n
+
+        \n<b>•</b> A single set of spurs would support 5 lifts.\n
+
+        \n<b>•</b> The minimum width of a steel beam you would use aas a needle for a cantilever scaffold is 75mm\n
+
+        \n<b>•</b> A cantilever scaffold needle should be inboard 3 times the outboard or 3 quarters, or 75%.\n
+
+        \n<b>•</b> To stop the nuts from loosening on the anchorage bolts of a cantilever scaffold needle use lock nuts.\n
+
+        \n<b>•</b> U-Head baseplates would be used to fix the standards of a cantilever scaffold to the needles.\n
+
+        \n<b>•</b> You would place the first lift of ledgers and transoms on a cantilever scaffold as close to the needles as possible.\n
+
+        \n<b>•</b> The minimum diameter of bolts you would use to anchor the inboard end of a cantilever scaffold needle is 15mm\n
+
+        \n<b>•</b> You would not use drilled in anchors ti fix the inboard end of a cantilever scaffold needle.\n
+
+        \n<b>•</b> When a spur is in compression, The maximum length between node points is 2m.\n
+
+        \n<b>•</b> To fix a spur to a scaffold framework you would use a right angle coupler.\n
+
+        \n<b>•</b> The maximum angle from the vertical at which you would fix a spur is 45 degrees.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="advanced">
+     <b>Advanced Scaffolding Licence</b>\n
+
+    Required for scaffolding work involving:\n
+
+    \n<b>•</b> cantilevered hoists\n
+    \n<b>•</b> hung scaffolds including scaffolds hung from tubes, wire ropes or chains, and\n
+    \n<b>•</b> suspended scaffolds.\n
+
+     \n<b>Advance Scaffolder Knowledge</b>
+
+    \n<b>•</b> You would not use open ended hook rods to build a hung scaffold.\n
+
+    \n<b>•</b> The minimum diameter of flexible steel wire rope you would use to support a hung scaffold is 11mm.\n
+
+    \n<b>•</b> A grade (M) chain would support a Lesser load than a grade (T) chain.\n
+
+    \n<b>•</b> The minim working load limit for beam clamps, trolleys and shackles used to support a hung scaffold is 500kg\n
+
+    \n<b>•</b> To protect a flexible steel wire rope from damage when it is fixed around the sharp edges of a beam use beam chaffer\'s\n
+
+    \n<b>•</b> When a ledger is supported in the eye of a sling, you would stop it from sliding by fixing a coupler on each side.\n
+
+    \n<b>•</b> Mouse shackle pins to stop them unwinding.\n
+
+    \n<b>•</b> Speed threads are unsuitable for fixing hung standards.\n
+
+    \n<b>•</b> You would not extend the length of a hung standard by fixing scaffold tubes with end to end couplers.\n
+
+    \n<b>•</b> The minimum rated working load for a trolley used to support a suspension rope is 500kg.\n
+
+    \n<b>•</b> You would fix a cradle\'s working load limit sign to the inside of the cradle.\n
+
+    \n<b>•</b> The minimum cradle width for a double rope suspended scaffold is 900mm.\n
+
+    \n<b>•</b> The maximum cradle width for a double rope suspended scaffold is 1.7m.\n
+
+    \n<b>•</b> The minimum width of a swing stage cradle is 450mm.\n
+
+    \n<b>•</b> The maximum width of a swing stage cradle is 900mm.\n
+
+    \n<b>•</b> The minimum width of a work cage is 750mm.\n
+
+    \n<b>•</b> The maximum width of a work cage is 1.5m.\n
+
+    \n<b>•</b> The minimum height of a stabilising sheave above the platform of a wrk cage is 2m.\n
+
+    \n<b>•</b> You would not fix the inboard end of a needle with friction anchors.\n
+
+    \n<b>•</b> You cannot use bags of sand as a counterweight for a needle.\n
+
+    \n<b>•</b> You would not use counterweights to fix a needle which supports two suspension ropes.\n
+
+    \n<b>•</b> The maximum rop tension allowed on a shackle use to support a suspension rop is 80 percent or the rated working load or 80 percent of SWL.\n
+
+    \n<b>•</b> The maximum rop tension allowed on a choked sling used to support a suspension rope is 40 percent of rated working load or 40 percent of SWL.\n
+
+    \n<b>•</b> Where two trolleys are used to support a swing stage, To stop them from spreading you would connect them with a spacer tie (or speader bar).\n
+
+    \n<b>•</b> When a drum type scaffolding hoist is at its lowest point, 3 full turns of rope should remain on the drum.\n
+
+    \n<b>•</b> With a fully loaded drum type scaffolding hoist, The drum flange should extend 2 rope diameters beyond the build up of rope.\n
+
+    \n<b>•</b> When a climber type scaffolding hoist is at its lowest point, The minimum length of spare rope is 1m.\n
+
+    \n<b>•</b> You would not use bulldog grips to secure a suspension rope.\n
+
+    \n<b>•</b> A double rope suspended scaffold does not need a protective device for each scaffolding hoist.\n
+
+    \n<b>•</b> An electronically powered scaffolding hoist must be fitted with a load limiting device\n
+
+        \n© Commonwealth of Australia 2014.
+
+
+
+    </string>
+
+    <string name="tower_mobile1">
+
+        \n<b>Tower and Mobile Scaffolds</b>\n
+
+A tower scaffold is an independent scaffold
+consisting of four vertical standards
+connected longitudinally and transversely
+or two frames in plan connected
+transversely to create a scaffold of one bay.
+It may also have an extra, short stabiliser
+bay or outriggers to increase stability.\n
+
+\nA mobile scaffold is a tower scaffold
+mounted on wheels.\n
+
+    </string>
+
+
+     <string name="tower_mobile2">
+
+       Manufacturers and suppliers must provide
+information about how to use and erect
+mobile scaffolds safely. If a scaffold is to
+be altered contact the manufacturer or
+supplier for guidance. Prefabricated mobile
+scaffolds should be erected in accordance
+with manufacturer’s specifications.\n
+
+\n<b>When do I need a high
+risk work licence?</b>\n
+
+A licensed scaffolder is required
+for the erection, alteration or dismantling of
+a tower or mobile scaffold where there is a
+risk that a person or object could fall more
+than 4 metres from the platform or the
+structure.
+This means that if a scaffold that is less than
+4 metres in height is located adjacent to, for
+example an excavation, a licensed scaffolder
+may still be required.
+
+    </string>
+
+     <string name="tower_mobile3">
+
+Often tower and mobile scaffolds will not
+require a licensed scaffolder to erect or
+dismantle them as there is no risk of a fall
+greater than 4 metres. However, the work
+should still be carried out by a competent
+person.\n
+
+\n<b>Control Measures</b>\n
+
+The following control measures should be
+considered for tower and mobile scaffolds:\n
+
+\n<b>•</b> Construct a tower scaffold with
+modular, frame or tube and coupler
+scaffolding.\n
+
+\n<b>•</b> Locate a scaffold on firm level ground
+with the feet or wheels properly
+supported. Do not use loose bricks or
+building blocks to take the weight of
+the scaffold. Where adjustable wheels
+are used, the slope of the surface
+should not exceed 5 degrees.\n
+
+\n<b>•</b> The height of the scaffold—from the
+bottom of the scaffold to the platform
+surface—should be no greater than the
+multiple of the minimum base dimension
+as specified in the manufacturer, supplier
+or designer information.\n
+
+\n<b>•</b> Reduce the height to base ratios or
+provide extra support if the scaffold
+will be:\n
+
+\n<b>(a)</b> sheeted or likely to be exposed
+to strong winds
+\n<b>(b)</b> loaded with heavy equipment
+or materials
+\n<b>(c)</b> used to hoist heavy materials
+or support rubbish chutes, and
+\n<b>(d)</b> used for operations involving heavy
+or awkward equipment e.g. grit
+blasting or water-jetting.\n
+
+\n<b>•</b> Use a secure internal ladder with a
+protected opening e.g. a hinged trap
+door for entry and exit to and from
+the scaffold.\n
+
+\n<b>•</b> The internal ladder should be free
+of the supporting surface.\n
+
+\n<b>•</b> Select the correct size and capacity
+wheels to support the total mass of
+the dead and live loads of the scaffold.\n
+
+\n<b>•</b> Use wheels that have the working
+load limit (WLL) clearly marked.\n
+
+\n<b>•</b> Wheels should be locked before
+erection continues.\n
+
+\n<b>•</b> Wheels with adjustable legs should be
+used and adjusted to keep the platform
+level when the supporting structure is
+at uneven or different heights.\n
+
+\n<b>•</b> Include plan bracing at the base of
+mobile scaffolds to provide greater
+stability.\n
+
+\n<b>•</b> Install guardrails, mid-rails and
+toeboards on working platforms.
+
+         \n<b>•</b> Keep wheel brakes locked at all times
+unless moving the scaffold.\n
+
+\nWork should not be done from tower or
+mobile scaffolds located on balconies or
+raised areas unless the scaffold is stable
+and secure or fixed to the structure to
+prevent movement.\n
+
+\n<b>Moving a scaffold</b>\n
+
+Before moving or relocating
+a scaffold check:\n
+
+\n<b>•</b>  there are no people or materials on
+the scaffold\n
+
+\n<b>•</b>  there are no overhead electric lines
+or other overhead obstructions in the
+line of travel\n
+
+\n<b>•</b>  the ground is firm, level and there are
+no obstructions—contact with a small
+obstruction can cause a mobile scaffold
+to overturn, and\n
+
+\n<b>•</b>  that electrical equipment and leads
+cannot become tangled with the
+scaffold.\n
+
+\nNever move the scaffold in windy
+conditions.\n
+
+\nScaffolds with components that are not
+permanently fixed or which are not rated
+for lifting should only be moved in frames
+designed to lift individual components
+e.g. stillage’s.\n
+
+\nIf lifting a scaffold by crane, prepare a lifting
+plan outlining safe lifting points and how
+loose components like base jacks should
+be secured. Sling the scaffold at the point
+most likely to maintain stability and prevent
+dislodgment of scaffolding components.\n
+
+\nThe load should be slung by a licensed
+dogger or rigger and manoeuvred in a
+way that ensures the load remains stable.\n
+
+\nA crane should not be used to lift
+aluminium mobile scaffolds because
+the scaffolding components may fail.\n
+
+         \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="birdcage">
+        <b>Birdcage scaffold</b>\n
+
+A birdcage scaffold is an independent scaffold consisting of more than two rows of
+standards in both directions connected by ledgers and transoms (see Figure below). It is mainly
+used for work carried out on a single level, for example ceilings. You should refer to the
+designer’s or manufacturer’s specifications when erecting and dismantling birdcage
+scaffolds made from modular scaffolding.\n
+
+\nThe following risk control measures
+should be implemented for birdcage
+scaffolds made from tube and coupler
+scaffolding:\n
+
+\n<b>•</b> Only use birdcage scaffold to
+support formwork if it has been
+specifically designed for this
+purpose.\n
+
+\n<b>•</b> Provide longitudinal bracing or a
+tied face at every third longitudinal
+row of standards.\n
+
+\n<b>•</b> Brace the outside row of standards
+on each face and each third row
+internally with longitudinal bracing.\n
+
+\n<b>•</b> Provide transverse bracing at every
+fourth bay on the ends of the
+scaffold.\n
+
+\n<b>•</b> Consider using elevating work
+platforms to assist with erecting or
+dismantling birdcage scaffolds.\n
+
+\nA fall arrest system is generally not a suitable risk control measure for the erection or
+dismantling of perimeter and birdcage scaffolds. You should refer to the General guide for
+scaffolds and scaffolding work for further information on fall arrest systems.
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="tube_coupler">
+
+        <b>Tube and coupler scaffolding</b>\n
+
+Tube and coupler scaffolds are built from tubing (tube) and joining or fixing components
+(couplers) fixed together, to form a required scaffold design. They are frequently used
+on structures with unusual design, shape or function. The versatility of tube and coupler
+scaffolds means they can be assembled in a wide variety of different configurations. This
+also means erecting tube and coupler scaffolds can be complex when compared to
+prefabricated scaffolds.\n
+
+\nThe diameter and strength of the tube and components being used to form a tube and
+coupler scaffold will determine the load it can carry. For a scaffold incorporating plain steel
+tube, the analysis and design should consider the most adverse combination of tubes by wall
+thickness, strength of the tube material or both.\n
+
+\nSteel tubes and aluminium tubes should not be mixed in one scaffold.\n
+
+\nTubes of different wall thicknesses should not be interconnected by spigots or internaltype
+end-to-end couplers unless extra measures are taken to positively secure the joint. For
+example, fix a short tube with swivel couplers over and parallel to the joint (splicing) or fix a
+bridle with right-angle couplers to the adjacent members.\n
+
+\nMetal tube and coupler components should be regularly inspected for damage and particular
+attention given to crushing, deformation, cracks, corrosion and splitting.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="hung">
+
+       <b>Hung Scaffold</b>\n
+
+A hung or hanging scaffold is an independent scaffold that hangs from another structure but
+is not capable of being raised or lowered when in use.\n
+
+    \nThe following control measures should be implemented for a hung scaffold:\n
+
+    \n<b>•</b> The hung scaffold should be designed by a competent person and verification obtained
+    that the structure that is to support the hung scaffold is capable of bearing the design
+    load.\n
+
+    \n<b>•</b> The scaffolding plan should include information about the position of the check couplers.\n
+
+    \n<b>•</b> If a cantilevered suspension rig is to be used, information should be included on how the
+    rig is to be constructed and secured.\n
+
+    \n<b>•</b> Standards on a hung scaffold should be tension spliced or bolted with rated spigot
+    connection as per the manufacturer’s specifications.\n
+
+    \n<b>•</b> Each vertical hanging tube should be
+    provided with check couplers at the
+    suspension points and underneath
+    the platform or according to the
+    manufacturer’s specifications.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+     <string name="single_pole">
+
+       <b>Single Pole Scaffold</b>\n
+
+A single pole scaffold consists of a single
+row of standards connected by ledgers
+(see Figure below). Putlogs are fixed to the
+ledgers and built into the wall of the
+building or structure.\n
+
+\nA single pole scaffold is dependent
+upon the structure against which it is
+placed for support. It is important that
+no components of this type of scaffold
+are removed until the scaffold is being
+dismantled.\n
+
+         \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="swing_stage">
+
+        <b>Suspended Scaffolds</b>\n
+
+A suspended scaffold incorporates a suspended platform capable of being raised or lowered
+when in use. Other terms often used are ‘suspended cradle’ and ‘swing-stage’ scaffold. They
+are typically prefabricated modular units (see Figure 1) or permanently fabricated units
+although they can be assembled from scaffolding.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+     <string name="swing_stage2">
+
+A suspended scaffold must be designed by a competent person and must be erected by a
+person holding an advanced scaffolding or advanced rigging high risk work licence. Operators
+do not require a licence but must be competent.\n
+
+\nDesigner or manufacturer instructions should be followed when installing, erecting and
+operating a suspended scaffold.\n
+
+         \nRisk control measures that should be implemented for
+a suspended scaffold include:\n
+
+\n<b>•</b> providing safe entry to and exit from the cradle\n
+
+\n<b>•</b> consulting with and providing specific training and instruction for workers on the correct
+procedures for using and working on suspended scaffolds including instructions on safety
+features like:\n
+
+\n<b>(a)</b> the emergency stop, load limiting device and rope lock device
+\n<b>(b)</b> rescue or emergency evacuation devices or equipment
+\n<b>(c)</b> raising and lowering operations particularly in the event of an emergency
+e.g. a power failure\n
+
+\n<b>•</b> developing and implementing a rescue and retrieval procedure before starting work
+including all necessary equipment, and\n
+
+\n<b>•</b> inspecting components for damage, wear and cracks before use and at pre-determined
+intervals. Non-destructive testing for cracks in high stress areas e.g. dye penetration
+testing may be needed to identify cracks not easily visible.\n
+
+\n<b>Design</b>\n
+
+The suspension rig should be designed and documented by a competent person, for example
+a person who holds a tertiary qualification in a relevant engineering discipline.\n
+
+\nEvery area of design for a suspended scaffold system should receive a formal sign-off from
+a competent person. The formal sign-off for the suspended scaffold system should include
+the needle suspension system, cradle and hoist. Different parties may certify different
+components.\n
+
+For further information such as:
+         \n<b>•</b>Installation
+         \n<b>•</b>Supply
+         \n<b>•</b>Setup\n
+
+\n refer to <i>Guide to Suspended (Swing Stage) Scaffolds</i> or click the button below.\n
+
+         \n© Commonwealth of Australia 2014.
+
+    </string>
+
+<string name="demolition"><b>Scaffolds for Demolition work</b>\n
+
+At a minimum, heavy or special duty (see below) scaffold should be used during demolition
+work to contain dislodged materials or to provide a safe working platform and edge
+protection for workers.\n
+
+\nFactors which affect the stability of a scaffold for demolition work include:\n
+
+\n<b>•</b> the load imposed by demolished material dislodged onto the scaffold\n
+\n<b>•</b> wind forces acting on containment sheeting on the scaffold face\n
+\n<b>•</b> water retention in containment sheeting by capillary attraction\n
+\n<b>•</b> progressive removal of building elements affecting the lateral stability of the upper
+portion of the scaffold, and\n
+\n<b>•</b> progressive removal of ties and dismantling of the scaffold.\n
+
+    \nThe following risk control measures should be implemented when using scaffolds for
+demolition work:\n
+
+\n<b>•</b> The vertical spacing of scaffold ties may have to be reduced to facilitate the demolition
+cycle.\n
+\n<b>•</b> Containment sheeting on the internal face of the scaffold should be installed to deflect
+material into the building. This reduces the potential for overloading the scaffold.\n
+\n<b>•</b> Ensure the scaffold is dismantled progressively and in line with the demolition work.\n
+\n<b>•</b> Scaffold planks should be secured to prevent dislodgement from falling debris.\n
+\n<b>•</b> The scaffold should be maintained and inspected regularly.\n
+
+    \n© Commonwealth of Australia 2014.
+
+</string>
+
+    <string name="special_duty1">
+
+        <b>Special Duty Scaffolds</b>\n
+
+Special duty scaffolds are scaffolds that have a specified design load for that scaffold only.
+A special duty scaffold differs from other scaffold working platforms which are generally
+rated as light, medium or heavy duty and have a standardised maximum load rating and
+minimum dimensions. The following are some examples of common special duty scaffolds.\n
+
+\n<b>Cantilever scaffold</b>\n
+
+A cantilever scaffold is a scaffold supported by cantilevered load-bearing members.
+The following risk control measures should be implemented for a cantilevered scaffold:\n
+
+\n<b>•</b> Design and position cantilever beams in accordance with the engineer’s requirements
+and the scaffolding plan.\n
+\n<b>•</b> Ensure a competent person certifies that the supporting structure can support the
+cantilevered scaffold.\n
+\n<b>•</b> Use the following preferred methods for fixing the inboard length of the cantilevered
+beam to the structure:\n
+\n<b>(a)</b> Fix the beam to the floor below using a positive fixing e.g. a U-bolt fitted over the
+beam and through the concrete floor slab.
+\n<b>(b)</b> Use counterweights on the beam.
+\n<b>(c)</b> Install props to the top of the beam and to the underside of the floor above, ensuring
+the props are fixed to prevent dislodgement.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="special_duty2">
+
+        <b>Hanging Bracket Scaffold</b>\n
+
+Hanging bracket scaffolds are systems supported by frames on buildings or other structures.
+Hanging brackets are sometimes in the shape of an upside down ‘L’, one arm of which is
+fixed to a vertical surface, the other projecting horizontally to support scaffold planks.\n
+
+\nOther hanging bracket scaffold systems may include horizontal members supported by
+floors of buildings or other structures.\n
+
+\nThe following risk control measures should be implemented for hanging bracket scaffolds:\n
+
+\n<b>•</b> Provide a safe way for people installing hanging brackets to enter.\n
+\n<b>•</b> Use connectors where two more scaffold planks sag unevenly and cause a tripping
+hazard.\n
+\n<b>•</b> Use an engineer to design hanging bracket scaffolds and their means of support—
+engineering verification may be provided by calculation or load testing.\n
+\n<b>•</b> The supporting structure should be able to support dead and live loads applied by the
+hanging brackets.\n
+\n<b>•</b> The spacing of brackets should not exceed the maximum plank spans specified by the
+manufacturer.\n
+\n<b>•</b> Planks may overlap planks on straight runs on hanging bracket scaffolds—where butting
+of planks at a pair of brackets cannot be achieved—provided the overlap is at least
+300 mm.\n
+
+\nNote: This does not refer to overlap of planks on putlogs.
+
+        \n© Commonwealth of Australia 2014.
+    </string>
+
+    <string name="special_duty3">
+
+        <b>Spur Scaffold</b>\n
+
+\nA spur scaffold is a scaffold supported by inclined load-bearing members.\n
+
+\nThe following control measures should be implemented for a spur scaffold:\n
+
+\n<b>•</b> Fix propping systems between the floor and ceiling at intervals to suit the spacing of the
+standards within the scaffold.\n
+
+\n<b>•</b> Provide suitable headstocks at the top of each propping system to distribute the loads
+imposed.\n
+
+\n<b>•</b> Ensure propping systems are securely tied together and braced.\n
+
+\n<b>•</b> Brace spurs exceeding 1.8 metres in length in both directions at the centre unless
+designed otherwise.\n
+
+        \n© Commonwealth of Australia 2014.
+    </string>
+
+    <string name="trestle">
+        <b>Trestle Scaffold</b>\n
+
+A trestle scaffold is a scaffold assembled from
+prefabricated trestles, braces and accessories.
+Trestle scaffolds, for example ‘A-frame’ (see
+Figure 2) and ‘H-frame’ trestle scaffolds, are
+commonly used by bricklayers, plasterers and
+painters and for general fit-out and finishing
+work. Trestle scaffolds generally do not require
+a licensed scaffolder to erect or dismantle.\n
+
+\nTrestle scaffolds should be erected and
+dismantled by a competent person in a
+progressive way to ensure both the installer’s
+safety and the stability of the overall structure.\n
+
+\nBraces should be attached to the trestles
+in accordance with the manufacturer’s or
+supplier’s instructions. As the height of trestles
+increase, there is a greater need to provide
+lateral stability to the trestles.\n
+
+\nA trestle scaffold should be stable and erected
+on a suitable foundation to ensure it can safely
+carry and distribute loads like materials and workers evenly to each trestle. Measures to
+control instability and stop possible toppling can include using ties to a permanent structure
+or using outriggers.\n
+
+\nTrestle scaffolds should:\n
+
+\n<b>•</b> have barriers or edge protection installed where the potential fall would result in injury
+to people using the scaffold or the fall area contains hazards e.g. sharp objects like steel
+reinforcing bars\n
+
+\n<b>•</b> support the relevant live load or duty rating—not exceeding load limit
+Note: The full width of a trestle should be fully planked, irrespective of the duty rating.\n
+
+\n<b>•</b> have scaffold planks that are uniform and in a serviceable condition e.g. no splits, cracks,
+knots or bends, overhang their end supports between 150–250 mm and are secured
+against uplift\n
+
+\n<b>•</b> have a horizontal work platform at least 450 mm wide. On sloping or uneven ground
+use a trestle that incorporates height adjustment. Bricks or blocks should not be used as
+soleplates\n
+
+\n<b>•</b> have a safe means of entry and exit e.g. by secured ladders or from the building if
+approximately level with the platform\n
+
+\n<b>•</b> have a safe means to load material onto the working platform e.g. use mechanical means
+or if this is not practicable, pass—do not throw—material up to the working platform, and\n
+
+\n<b>•</b> not be used by multiple people in restricted work areas at the same time e.g. so as not
+to overload 450 mm, 2 plank platforms.\n
+
+\nMost bracing systems for tubular trestle scaffolds are manufactured from light materials
+and are easily damaged by misuse or abuse so care should be taken during installation and
+dismantling. Under no circumstances should anyone climb the braces or trestles.
+Cross-braces on trestle scaffolding do not satisfy the requirements for edge protection.\n
+
+        \n© Commonwealth of Australia 2014.
+    </string>
+
+    <string name="erect1">
+<b>Scaffold erection</b>\n
+
+The following safe work practices should be used
+when erecting a scaffold:\n
+
+\n<b>•</b> Develop and follow a methodical work sequence—e.g. in a SWMS or scaffolding plan.\n
+
+\n<b>•</b> Scaffold fittings and other connections should be securely tightened where required.
+Fittings should be in accordance with the manufacturer’s or designer’s specifications
+and the scaffolding plan.\n
+
+\n<b>•</b> Scaffolding including all bracing and ties, guy ropes or buttresses should be installed as
+the scaffold is erected.\n
+
+        \n<b>•</b> Consider using specifically designed loading platforms or back propping to prevent
+overloading the building floor or the scaffold.\n
+
+\n<b>•</b> Get certification from a competent person before erecting scaffold on awnings.\n
+
+\n<b>•</b> Check live loads arising from the work of erecting or dismantling the scaffold are within
+the specification for the final design—the number of workers on the scaffold at any one
+time may need to be limited.\n
+
+\n<b>•</b> Work from a full deck of planks whenever possible.\n
+
+\n<b>•</b> Do not overload scaffold bays with scaffolding awaiting installation.\n
+
+\n<b>•</b> Do not climb on guardrails to gain extra height.\n
+
+\n<b>•</b> Do not climb on outside of scaffold.\n
+
+\n<b>•</b> Implement measures to control the risk of a fall if the internal gap—the gap between
+the inner edge of the length of the platform and the face of the building or structure
+immediately beside the platform—on scaffolds including hanging bracket scaffolds is
+greater than 225 mm. For example, install:\n
+
+\n<b>(a)</b> edge protection, and
+\n<b>(b)</b> extra scaffold planks to minimise the size of the internal gap.\n
+
+\nAn example of scaffold erection is
+shown in Figure 2. In this example
+the scaffold is being erected against
+an existing building so guardrails
+are only needed on external faces.
+Access ladders and toeboards have
+been omitted for clarity.\n
+
+\nAfter enough components of the
+scaffold have been erected to
+support it, immediately install:\n
+
+\n<b>•</b> a platform at least 450 mm
+wide along the full length of the
+section of scaffold\n
+
+\n<b>•</b> edge protection across the
+space between the standards
+forming the outer frame of the
+scaffold at the level the scaffold
+has reached, and\n
+
+\n<b>•</b> a way to access the scaffold
+e.g. temporary stairs or a ladder
+to the level the scaffold has
+reached.\n
+
+\nBefore the next level of the scaffold
+is erected, a platform should be
+installed not more than two metres
+below the position of the next level.
+
+        \nWhen erecting scaffolding:\n
+
+\n<b>•</b> A section of the platform may
+be left open to allow the passing
+of planks or other scaffolding
+between levels.\n
+
+\n<b>•</b> A platform may be removed
+after work has started two levels
+above the level from which the
+platform is to be removed.\n
+
+        \n<b>•</b> When installing or erecting scaffolds over or beside water, risk controls may include
+alternative erection methods, for example prefabrication away from the water and
+installation by crane.\n
+
+\n<b>•</b> The scaffolding should be checked and any defective scaffolding should be clearly
+marked with paint or tags so it is identified and can be removed from the work area to
+prevent use.
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+<string name="dismatal">
+
+    <b>Dismantling a Scaffold Safely</b>\n
+
+The following safe work practices should be used when dismantling a scaffold:\n
+
+\n<b>•</b> Edge protection and a way to enter the scaffold can be removed as the scaffold is
+dismantled, provided it is removed at the last possible stage.\n
+
+\n<b>•</b> Where possible a platform of at least 450 mm wide at the level the dismantling has
+reached should be in place.\n
+
+\n<b>•</b> Ensure when dismantling the scaffold the platform immediately below the level the worker
+is standing on has a full set of planks across its width and is no lower than 2 metres.\n
+
+\n<b>•</b> A section of the scaffold may be left open to allow the lowering of planks or other
+scaffolding between levels.\n
+
+\n<b>•</b> Scaffolding should never be dropped in an uncontrolled way when dismantling the scaffold.\n
+
+    \n© Commonwealth of Australia 2014.
+
+</string>
+
+    <string name="alteration">
+       <b>Altering a Scaffold</b>\n
+
+When altering a scaffold you should:\n
+
+\n<b>•</b> consult the scaffold designer before making alterations\n
+
+\n<b>•</b> ensure scaffold alterations are in accordance with the scaffolding plan\n
+
+\n<b>•</b> ensure alterations do not compromise the structural integrity of the scaffold, and\n
+
+\n<b>•</b> ensure systems are in place to identify unauthorised interference with the scaffold
+e.g. regular inspections.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="inspect_scaff">
+
+        <b>Inspecting Scaffolds</b>\n
+
+Procedures should be developed for inspecting and maintaining the scaffold and
+scaffolding to ensure the scaffold is safe to use and remains in a safe condition.
+For suspended, cantilevered, spur and hung scaffolds and any other scaffold from which
+a person or thing could fall more than 4 metres:\n
+
+\n<b>•</b> the scaffold must not be used unless there is written confirmation from a competent
+person that they have inspected the scaffold and construction of the scaffold is
+complete\n
+
+\n<b>•</b> the scaffold and its supporting structure must be inspected by a competent person:\n
+
+\n<b>(a)</b> before the scaffold is used after an incident has occurred that might affect the
+stability of the scaffold
+\n<b>(b)</b> before the scaffold is used after repairs
+\n<b>(c)</b> at least every 30 days\n
+
+\n<b>•</b> if an inspection indicates that a scaffold or its supporting structure creates a risk to
+health or safety:\n
+
+\n<b>(a)</b> any necessary repairs, alterations and additions must be made, and
+\n<b>(b)</b> the scaffold and its supporting structure are inspected by a competent person
+before the scaffold is used, and\n
+
+\n<b>•</b> unauthorised access to the scaffold is prevented while the scaffold is incomplete or
+unattended.\n
+
+\nScaffolds with a fall risk of less than 4 metres should also be inspected before use and after
+any incident, repair, alteration or addition.\n
+
+Inspecting scaffolds and scaffolding at a workplace is particularly important when the
+scaffold is in place for a long period of time.\n
+
+        \n© Commonwealth of Australia 2014.
+    </string>
+
+    <string name="handover">
+        <b>Handover Inspections</b>\n
+
+Once a scaffold has been erected a handover inspection should be completed to check that
+the scaffold is safe to use. Where written confirmation from a competent person is required
+this usually takes the form of a handover certificate. (see link below)\n
+
+\nIf alterations, repairs or additions to the scaffold are required a further inspection should be
+completed and a new handover certificate provided.\n
+
+\nThe handover certificate should be kept at the workplace until the scaffold has been
+dismantled.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="post_handover">
+        <b>Post Handover Inspections</b>\n
+
+Regular post-handover inspections should be completed once a scaffold is in use. How often
+these inspections are done will vary depending on the type and size of the scaffold, scaffold
+use, workplace conditions, the weather and any risk of scaffold collapse.\n
+
+\nScaffold inspections must be completed every 30 days for scaffolds with a fall risk of more
+than 4 metres. The designer or supplier of the scaffold should be consulted on the intervals
+for inspection when the scaffold is first installed.\n
+
+\nIf an inspection identifies a problem with the scaffold, access to the scaffold must be
+controlled and any necessary repairs, alterations and additions completed. Once the
+work is complete the scaffold must be inspected again. Where written confirmation from
+a competent person is required a new handover certificate should be provided.\n
+
+\nRegular scaffold maintenance should also include inspections of stored scaffold components
+as well as those in use. Scaffolding stored in areas exposed to the weather can become
+corroded. Each item of scaffolding should be inspected before being incorporated into
+a scaffold.\n
+
+\nInspection records should be kept at the workplace or be readily accessible near the scaffold
+should they be required. Inspection records should include the location, comments, date and
+time of inspections, relevant design or specification reference and the person who carried
+out the inspection.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+    <string name="scaffolding_inspect">
+<b>Scaffolding</b>\n
+
+Suppliers and owners of plant must ensure, so far as is reasonably practicable, the plant is
+without risk to health and safety when properly used. To identify defects, procedures for
+regularly inspecting new and re-used scaffolding should be developed and implemented. If
+any affected components are detected they should be repaired or disposed of and replaced
+as required.\n
+
+\nScaffolding should meet the requirements set out in the manufacturer’s or designer’s
+specifications or relevant technical standards e.g. the strength of component material.
+Scaffolding should be regularly inspected and maintained to ensure the continued structural
+integrity of an erected scaffold.\n
+
+        \n© Commonwealth of Australia 2014.
+
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

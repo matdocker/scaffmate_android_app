@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:background="#00ffffff"
+    android:orientation="vertical"
+    android:paddingTop="60sp">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/menu_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeOne"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/design_principles"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Design Principles"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeTwo"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/ground_conditions"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Foundation"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeThree"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/loading"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Loading"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeFour"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/sole_board"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Soleboards &amp; Baseplates"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeFive"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/tying_anchoring_two"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Tying &amp; Anchoring"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeSix"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/working_platform"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Working Platforms"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeSeven"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/fall_arrest"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Fall Arresting Platforms"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeEight"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/handrails"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Edge Protection"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeNine"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/access_egress"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Access &amp; Egress"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubThreeTen"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/sole_board"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Perimerter Containment Screening"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

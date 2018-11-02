@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="Risk Management">
+            <menu>
+
+        <item
+            android:id="@+id/nav_complete_guide"
+            android:icon="@drawable/ic_menu_black_24dp"
+            android:title="General Scaffolding" />
+        <item
+            android:id="@+id/nav_supervisors"
+            android:icon="@drawable/supervisor_ic"
+            android:title="Supervisors" />
+        <item
+            android:id="@+id/nav_leading_hands"
+            android:icon="@drawable/leading_hand_ic"
+            android:title="Leading Hands" />
+        <item
+            android:id="@+id/nav_scaffolders"
+            android:icon="@drawable/scaffolder_ic"
+            android:title="Scaffolders" />
+            </menu>
+        </item>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Scaffolding (Coming Soon)">
+            <menu>
+        <item
+            android:id="@+id/nav_basic_scaffolding"
+            android:icon="@drawable/ic_menu_black_24dp"
+            android:title="Basic Scaffolding" />
+        <item
+            android:id="@+id/nav_intermediate_scaffolding"
+            android:icon="@drawable/supervisor_ic"
+            android:title="Intermediate Scaffolding" />
+        <item
+            android:id="@+id/nav_advanced_scaffolding"
+            android:icon="@drawable/leading_hand_ic"
+            android:title="Advanced Scaffolding" />
+
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About us" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Contact us"
+                />
+        </menu>
+    </item>
+
+
+</menu>

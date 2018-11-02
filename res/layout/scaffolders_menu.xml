@@ -1,0 +1,78 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00ffffff"
+    android:clickable="true"
+    android:paddingTop="56sp"
+    tools:context=".MenuFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/menu_list"
+            android:padding="@dimen/main_menu_padding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageButton
+                android:id="@+id/imageButton1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="#00ffffff"
+                android:clickable="true"
+                android:nestedScrollingEnabled="true"
+                android:onClick="menuTwoSubTwo"
+                android:layout_marginBottom="@dimen/main_menu_margin"
+                android:scaleType="fitStart"
+                android:src="@drawable/leading_hand2" />
+
+
+            <ImageButton
+                android:id="@+id/imageButton3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|top"
+                android:adjustViewBounds="true"
+                android:background="#00ffffff"
+                android:clickable="true"
+                android:onClick="menuThree"
+                android:layout_marginBottom="@dimen/main_menu_margin"
+                android:scaleType="fitStart"
+                android:src="@drawable/scaff_duties1" />
+
+
+            <ImageButton
+                android:id="@+id/imageButton4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|top"
+                android:adjustViewBounds="true"
+                android:background="#00ffffff"
+                android:clickable="true"
+                android:onClick="menuFour"
+                android:layout_marginBottom="@dimen/main_menu_margin"
+                android:scaleType="fitStart"
+                android:src="@drawable/types_of_scaff1" />
+
+            <ImageButton
+                android:id="@+id/imageButton5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|top"
+                android:adjustViewBounds="true"
+                android:background="#00ffffff"
+                android:clickable="true"
+                android:onClick="menuFive"
+                android:scaleType="fitStart"
+                android:src="@drawable/erect_dismantal1" />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

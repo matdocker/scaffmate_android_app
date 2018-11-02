@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="60sp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00ffffff">
+
+        <LinearLayout
+            style="@style/TextContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00ffffff">
+
+            <TextView
+                style="@style/DescText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/trestle"
+                android:id="@+id/textView2"
+                android:layout_gravity="center_horizontal" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView6"
+                android:src="@drawable/trestle1"
+                android:paddingBottom="10sp"
+                android:adjustViewBounds="true"
+                android:background="#00ffffff" />
+
+            </LinearLayout>
+    </ScrollView>
+</LinearLayout>

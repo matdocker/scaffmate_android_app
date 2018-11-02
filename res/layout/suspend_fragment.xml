@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="60sp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00ffffff">
+
+        <LinearLayout
+            style="@style/TextContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/DescText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="#00ffffff"
+                android:text="@string/swing_stage" />
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="#00ffffff"
+                android:paddingBottom="10sp"
+                android:src="@drawable/swing_stage" />
+
+            <TextView
+                style="@style/DescText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="#00ffffff"
+                android:text="@string/swing_stage2" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="#00ffffff"
+                android:clickable="true"
+                android:onClick="swingStageLnk"
+                android:paddingBottom="75sp"
+                android:paddingTop="5sp"
+                android:scaleType="fitStart"
+                android:src="@drawable/swing_stage_link" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

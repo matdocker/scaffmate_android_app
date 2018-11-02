@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="60sp"
+    android:background="#00ffffff">
+
+    <android.support.v7.widget.CardView
+        style="@style/MenuButton"
+        android:onClick="menuTwoSubOne"
+        card_view:cardCornerRadius="10dp"
+        card_view:contentPadding="0dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:src="@drawable/risk_management"
+                android:adjustViewBounds="true"
+                android:layout_alignParentLeft="true"/>
+
+            <TextView
+                style="@style/MenuTextStyle"
+                android:text="Risk Management"/>
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        style="@style/MenuButton"
+        android:onClick="menuTwoSubTwo"
+        card_view:cardCornerRadius="10dp"
+        card_view:contentPadding="0dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:src="@drawable/common_hazards"
+                android:adjustViewBounds="true"
+                android:layout_alignParentLeft="true"/>
+
+            <TextView
+                style="@style/MenuTextStyle"
+                android:text="Common Hazards and\nRisk Controls"/>
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        style="@style/MenuButton"
+        android:onClick="menuTwoSubThree"
+        card_view:cardCornerRadius="10dp"
+        card_view:contentPadding="0dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:src="@drawable/general_design"
+                android:adjustViewBounds="true"
+                android:layout_alignParentLeft="true"/>
+
+            <TextView
+                style="@style/MenuTextStyle"
+                android:text="General Design"/>
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

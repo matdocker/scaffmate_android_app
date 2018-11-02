@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:background="#00ffffff"
+    android:orientation="vertical"
+    android:paddingTop="56sp">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/menu_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoOne"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Adjacent Buildings &amp; Structures"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoTwo"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Electric Power Lines"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoThree"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Entry and Exits"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoFour"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Falls"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoFive"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Falling Objects"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoSix"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Ladders"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoSeven"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Ground Conditions"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoEight"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Loading"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoNine"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Mixing Scaffold Components\nFrom Other Systems"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoTen"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Powered Mobile Plant &amp; Traffic"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoEleven"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Supporting Structures"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuTwoSubTwoTwelve"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:layout_marginLeft="20dp"
+                        android:text="Unauthorised Access"/>
+
+                    <ImageView
+                        style="@style/Checkmark" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

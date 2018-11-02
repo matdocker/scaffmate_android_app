@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingTop="56sp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/menu_list"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuFiveSubOne"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/erect_scaffold"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Erecting a Scaffold Safely"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuFiveSubTwo"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/tying_anchoring"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Tying &amp; Anchoring"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuFiveSubThree"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/work_plat"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Working Platforms"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuFiveSubFour"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/dismantle"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Dismantling Scaffold Safely"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                style="@style/MenuButton"
+                android:onClick="menuFiveSubFive"
+                card_view:cardCornerRadius="10dp"
+                card_view:contentPadding="0dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:src="@drawable/alteration"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"/>
+
+                    <TextView
+                        style="@style/MenuTextStyle"
+                        android:text="Scaffolding Alterations"/>
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
