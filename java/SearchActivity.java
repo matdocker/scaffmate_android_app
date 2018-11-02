@@ -8,9 +8,6 @@ import android.text.Html;
 import android.view.View;
 import android.widget.TextView;
 
-/**
- * Created by Mathew on 31/10/2016.
- */
 public class SearchActivity extends AppCompatActivity {
 
     @Override

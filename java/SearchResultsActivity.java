@@ -11,9 +11,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-/**
- * Created by Mathew on 31/10/2016.
- */
 public class SearchResultsActivity extends AppCompatActivity {
 
     @Override

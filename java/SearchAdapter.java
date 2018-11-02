@@ -1,9 +1,5 @@
 package mathewdocker.com.saffoldingapplication;
 
-/**
- * Created by Marko on 6/5/2016.
- */
-
 import android.content.Context;
 import android.text.Html;
 import android.text.Spannable;
